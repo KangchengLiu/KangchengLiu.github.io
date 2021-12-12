@@ -22,6 +22,6 @@ My research interests lie in the fields of Robotics and Automation, Computer gra
 Kangcheng Liu is a Ph.D candidate at The Chinese University of Hong Kong from Sep. 2018. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
 
 
-His research interests include Robotics and Automation, UAV related computer vision,  Computer graphics and 3D,  Robotics Scene Understanding.
+His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
 
 
