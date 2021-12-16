@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : " Kangcheng Liu / (刘康丞)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kangcheng Liu"
 description              : &description "personal description"
 url                      : https://kangchengliu.github.io/me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kangchengliu/kangchengliu.github.io"
+repository               : "kangchengliu/me"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
