@@ -30,11 +30,11 @@ IEEE Transactions on Cybernetics (Revised).
 2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Under Review) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 
-2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Under Review) </font>.
+2022 Conference on Computer Vision and Pattern Recognition (CVPR) <font color='Red'> (Under Review) </font>.
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral) (WACV'21)
 
-Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing
+Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing (TIP)
 
 Work experience
 ======
