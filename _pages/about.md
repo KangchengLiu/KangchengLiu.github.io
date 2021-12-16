@@ -14,7 +14,7 @@ The Chinese University of Hong Kong, Hong Kong SAR, China
 
 **Research Interests**
 ======
-My research interests lie in the fields of Robotics and Automation, Computer graphics and 3D,  Deep Learning, Robotics Scene Understanding. 
+My research interests lie in the fields of Robotics and Automation, Computer graphics and 3D,  Deep Learning, Robotics Scene Understanding, Computer Vision. 
 
 
 **Short Introduction**
