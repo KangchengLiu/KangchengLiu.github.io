@@ -63,4 +63,4 @@ Publication
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (oral) (WACV'21) </font>
 
-Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of <font color='Red'> IEEE Transactions on Image Processing </font>
+Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of <font color='Red'> IEEE Transactions on Image Processing </font>
