@@ -24,7 +24,7 @@ Kangcheng Liu is currently a Ph.D candidate at The Chinese University of Hong Ko
 
 His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
 
-AI Challenges and Comprtitions
+AI Challenges and Competitions
 ======
 <font color='Red'>3rd Place </font> (2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D.
 
@@ -33,6 +33,8 @@ AI Challenges and Comprtitions
 <font color='Red'>6th Place </font> (2020.09) in fully suprvised 3D Semantic Segmentation on ScanNet.
 
 <font color='Red'>2nd Place </font> (2020.09) in fully suprvised 3D Semantic Segmentation on S3DIS.
+
+<font color='Red'>5th Place </font> (2020.09) in fully suprvised 3D Semantic Segmentation on SensatUrban.
 
 <font color='Red'>3rd Place </font> (2021.02) in weakly suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case.
 
