@@ -29,36 +29,25 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 
 <font color='Red'>3rd Place(2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D. </font>   <br>
 
-
 <font color='Red'>4th Place(2020.08) in fully suprvised 3D Semantic Segmentation on Semantic3D (Reduced-8). </font>  <br>
-
 
 <font color='Red'>6th Place(2020.09) in fully suprvised 3D Semantic Segmentation on ScanNet. </font>  <br>
 
-
 <font color='Red'>2nd Place(2020.09) in fully suprvised 3D Semantic Segmentation on S3DIS. </font>  <br>
-
 
 <font color='Red'>5th Place(2021.02) in weakly suprvised 3D Semantic Segmentation on SensatUrban compared with those fully supervised methods. </font>  <br>
 
-
 <font color='Red'>1st Place in Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case. </font>  <br>
-
 
 <font color='Red'>1st Place in Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case. </font>  <br>
 
-
 <font color='Red'>1st Place in Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Annotation Case. </font>  <br>
-
 
 <font color='Red'>1st Place in Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case. </font>  <br>
 
-
 <font color='Red'>1st Place in Weakly Suprvised 3D Object Detection on ScanNet for the Limited Annotation Case. </font>  <br>
 
-
-<font color='Red'>1st Place in Weakly Suprvised 3D Object Detection on ScanNet for the Limited Reconstruction Case. </font>  <br>
-
+<font color='Red'>1st Place in Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case. </font>  <br>
 
 <font color='Red'>Third Price in the Hong Kang Regional Innovation Competitions. </font>  <br>
 
