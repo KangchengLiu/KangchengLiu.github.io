@@ -35,8 +35,7 @@ Publication
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. <font color='Red'> 2022 39th IEEE Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Under Review) </font>.
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 
-<font color='Red'> 2022 39th IEEE Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Under Review) </font>.
+**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font> <font color='Red'> 2022 39th IEEE Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Under Review) </font>.
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (oral) (WACV'21) </font>
 
