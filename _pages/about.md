@@ -19,10 +19,34 @@ My research interests lie in the fields of Robotics and Automation, Computer gra
 
 **Short Introduction**
 ======
-Kangcheng Liu is a Ph.D candidate at The Chinese University of Hong Kong from Sep. 2018. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
+Kangcheng Liu is currently a Ph.D candidate at The Chinese University of Hong Kong from Sep. 2018 and will obtain his PhD in May 2022. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
 
 
 His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
+
+AI Challenges and Comprtitions
+======
+<font color='Red'>3rd Place </font> (2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D.
+
+<font color='Red'>4th Place </font> (2020.08) in fully suprvised 3D Semantic Segmentation on Semantic3D (Reduced-8).
+
+<font color='Red'>6th Place </font> (2020.09) in fully suprvised 3D Semantic Segmentation on ScanNet.
+
+<font color='Red'>2nd Place </font> (2020.09) in fully suprvised 3D Semantic Segmentation on S3DIS.
+
+<font color='Red'>3rd Place </font> (2021.02) in weakly suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case.
+
+<font color='Red'>1st Place </font> in weakly suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case.
+
+<font color='Red'>1st Place </font> in weakly suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case.
+
+<font color='Red'>1st Place </font> in weakly suprvised 3D Instance Segmentation on ScanNet for the Limited Annotation Case.
+
+<font color='Red'>1st Place </font> in weakly suprvised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case.
+
+<font color='Red'>1st Place </font> in weakly suprvised 3D Object Detection on ScanNet for the Limited Annotation Case.
+
+<font color='Red'>1st Place </font> in weakly suprvised 3D Object Detection on ScanNet for the Limited Reconstruction Case.
 
 Publication
 ======
