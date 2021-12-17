@@ -15,9 +15,6 @@ You can also find my full publication list on my [Google Scholar profile](https:
   {% include archive-single.html %}
 {% endfor %}
 
-**Journal**
-======
-
 
 Publication
 ======
@@ -52,3 +49,5 @@ Work experience
   * Duties included: Power  Electronics, Buck/ Boost Circuit Design, Digital Signal Process based Control of the Power Inverter Systems, Stm32 based control of the complicated electric circuit.
   * Supervisor: Professor Huihui Song, Professor Qu Yanbin.
 
+<!-- **Journal**
+====== -->
