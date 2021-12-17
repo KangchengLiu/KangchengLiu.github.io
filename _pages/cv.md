@@ -23,6 +23,8 @@ Publication
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. 
 IEEE Transactions on Cybernetics (Revised).
 
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery </font>. IEEE Transactions on Power Systems, May 2018.
+
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling  </font>. 
 2021 38th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>.
 
