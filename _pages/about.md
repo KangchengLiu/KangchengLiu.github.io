@@ -30,7 +30,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 
 <font color='Red'>4th Place(2020.08) in fully suprvised 3D Semantic Segmentation on Semantic3D (Reduced-8). </font> 
 
-<font color='Red'>6th Place(2020.09) in fully suprvised 3D Semantic Segmentation </font> on ScanNet. </font> 
+<font color='Red'>6th Place(2020.09) in fully suprvised 3D Semantic Segmentation on ScanNet. </font> 
 
 <font color='Red'>2nd Place(2020.09) in fully suprvised 3D Semantic Segmentation on S3DIS. </font> 
 
