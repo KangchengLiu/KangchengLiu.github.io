@@ -27,6 +27,9 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 Publication
 ======
 
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery </font>. 
+IEEE Transactions on Power Systems, May 2018.
+
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. 
 IEEE Transactions on Cybernetics (Revised).
 
