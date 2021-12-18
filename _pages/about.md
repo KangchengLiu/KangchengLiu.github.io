@@ -49,7 +49,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 
 <font color='Red'>1st Place in Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case. </font>  <br>
 
-<font color='Red'>3rd Price in the Hong Kang Regional Innovation Competitions. </font>  <br>
+<font color='Red'>3rd Price in the Hong Kong Regional Biggest Innovation Competitions. </font>  <br>
 
 Publication
 ======
