@@ -71,6 +71,6 @@ Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color=
 Awards
 ======
 
-**Kangcheng Liu**,  Hong Kong PhD Fellowship Scheme. 2018.
+**Kangcheng Liu**,  Hong Kong PhD Fellowship Scheme (HKPFS). 2018.
 
 **Kangcheng Liu**,  CUHK Vice-Chancellor Scholarship 2018.
