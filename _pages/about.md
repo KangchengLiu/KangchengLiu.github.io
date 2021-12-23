@@ -60,7 +60,7 @@ Publication
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling  </font>. <font color='Red'> 2021 38th IEEE International Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Oral) </font>.
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. <font color='Red'> 2022 39th IEEE International Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Under Review) </font>.
+**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. <font color='Red'> 2022 39th IEEE International Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Under Review) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font> <font color='Red'> 2022 IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR) </font>. <font color='Red'> (Under Review) </font>.
 
