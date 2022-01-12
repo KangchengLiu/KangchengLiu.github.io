@@ -45,7 +45,7 @@ Project Video Demos
 
 Loop Closure of LiDAR SLAM:
 
-<video width="1920" height="1080" controls>
+<video width="1000" height="562.5" controls>
   <source src="/videos/Self-developed loop closure in real environment.mp4" type="video/mp4">
   <source src="/videos/Self-developed loop closure in real environment.ogg" type="video/ogg">
   <source src="/videos/Self-developed loop closure in real environment.webm" type="video/webm">
