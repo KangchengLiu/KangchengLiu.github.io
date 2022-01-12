@@ -44,10 +44,10 @@ Project Video Demos
 ======
 
 <video width="320" height="240" controls>
-  <source src="/movies/Self-developed loop closure in real environment.mp4" type="video/mp4">
-  <source src="/movies/Self-developed loop closure in real environment.ogg" type="video/ogg">
-  <source src="/movies/Self-developed loop closure in real environment.webm" type="video/webm">
-  <object data="/movies/Self-developed loop closure in real environment.mp4" width="320" height="240">
-    <embed src="/movies/Self-developed loop closure in real environment.swf" width="320" height="240">
+  <source src="/videos/Self-developed loop closure in real environment.mp4" type="video/mp4">
+  <source src="/videos/Self-developed loop closure in real environment.ogg" type="video/ogg">
+  <source src="/videos/Self-developed loop closure in real environment.webm" type="video/webm">
+  <object data="/videos/Self-developed loop closure in real environment.mp4" width="320" height="240">
+    <embed src="/videos/Self-developed loop closure in real environment.swf" width="320" height="240">
   </object> 
 </video>
