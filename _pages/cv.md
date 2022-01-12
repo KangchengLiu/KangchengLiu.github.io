@@ -49,6 +49,3 @@ Project Video Demos
     <embed src="/movies/Self-developed loop closure in real environment.swf" width="320" height="240">
   </object> 
 </video>
-
-
-======
