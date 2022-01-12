@@ -43,13 +43,13 @@ Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color=
 Project Video Demos
 ======
 
-<!-- Loop Closure of LiDAR SLAM
+Loop Closure of LiDAR SLAM:
 
-<video width="320" height="240" controls>
+<video width="1920" height="1080" controls>
   <source src="/videos/Self-developed loop closure in real environment.mp4" type="video/mp4">
   <source src="/videos/Self-developed loop closure in real environment.ogg" type="video/ogg">
   <source src="/videos/Self-developed loop closure in real environment.webm" type="video/webm">
   <object data="/videos/Self-developed loop closure in real environment.mp4" width="320" height="240">
     <embed src="/videos/Self-developed loop closure in real environment.swf" width="320" height="240">
   </object> 
-</video> -->
+</video> 
