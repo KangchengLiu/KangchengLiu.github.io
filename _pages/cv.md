@@ -33,9 +33,9 @@ IEEE Transactions on Cybernetics (Revised).
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 2022 IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR) . (Under Review)<font color='Red'> (Under Review) </font>.
 
-**Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections  </font>. <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics </font>, <font color='Red'> (oral) (ROBIO'2019) </font>
+**Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections  </font>. <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics </font>, <font color='Red'> (Oral) (ROBIO'2019) </font>
 
-Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral) (WACV'2021)
+Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (Oral) (WACV'2021)
 
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing (TIP)
 
