@@ -40,7 +40,7 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing (TIP)
 
 
-Project Video Demos
+<!-- Project Video Demos
 ======
 
 Loop Closure of LiDAR SLAM:
@@ -52,4 +52,4 @@ Loop Closure of LiDAR SLAM:
   <object data="/videos/Self-developed loop closure in real environment.mp4" width="320" height="240">
     <embed src="/videos/Self-developed loop closure in real environment.swf" width="320" height="240">
   </object> 
-</video> 
+</video>  -->
