@@ -51,7 +51,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 
 <font color='Red'>3rd Price in the Hong Kong Regional Biggest Innovation Competitions. </font>  <br>
 
-Publication
+Publications
 ======
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. <font color='Red'> IEEE Transactions on Cybernetics (Revised). </font>
@@ -78,3 +78,9 @@ Awards
 **Kangcheng Liu**,  CUHK Vice-Chancellor Scholarship 2018.
 
 **Kangcheng Liu**, Professor Charles K. Kao Student Creativity Merit Award 2021.
+
+
+Hobbies
+======
+
+Reading, Guitar, Hiking, Football, Basketball, Playing Video Games, Singing, History, etc.
