@@ -41,6 +41,8 @@ Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color=
 
 
 Project Video Demos
+======
+
 <video width="320" height="240" controls>
   <source src="/movies/Self-developed loop closure in real environment.mp4" type="video/mp4">
   <source src="/movies/Self-developed loop closure in real environment.ogg" type="video/ogg">
