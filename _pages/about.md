@@ -27,7 +27,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 **AI Challenges and Competitions**
 ======
 
-<font color='Red'>3rd Place</font>(2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D.   <br>
+<font color='Red'>3rd Place</font>(2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D.   
 
 <font color='Red'>4th Place</font>(2020.08) in fully suprvised 3D Semantic Segmentation on Semantic3D (Reduced-8).   <br>
 
