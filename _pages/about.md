@@ -26,7 +26,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 
 **AI Challenges and Competitions**
 ======
-
+white-space: nowrap;
 <font color='Red'>3rd Place</font>(2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D.   
 
 <font color='Red'>4th Place</font>(2020.08) in fully suprvised 3D Semantic Segmentation on Semantic3D (Reduced-8).   <br>
@@ -50,7 +50,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 <!-- <font color='Red'>1st Place</font> in Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case.  <br> -->
 
 <font color='Red'>3rd Price</font> in the Hong Kong Regional Biggest Innovation Competitions.  <br>
-
+white-space: nowrap;
 Publications
 ======
 
