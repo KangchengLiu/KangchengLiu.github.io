@@ -24,32 +24,6 @@ Kangcheng Liu is currently a Ph.D candidate at The Chinese University of Hong Ko
 
 His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
 
-**AI Challenges and Competitions**
-======
-
-Fully suprvised 3D Semantic Segmentation on Paris-Lille-3D. <font color='Red'>3rd Place</font>(2020.05)  <br>
-
-Fully suprvised 3D Semantic Segmentation on Semantic3D. <font color='Red'>4th Place</font>(2020.08) (Reduced-8).   <br>
-
-Fully suprvised 3D Semantic Segmentation on ScanNet. <font color='Red'>6th Place</font>(2020.09) <br>
-
-Fully suprvised 3D Semantic Segmentation on S3DIS. <font color='Red'>2nd Place</font>(2020.09) <br>
-
-Weakly suprvised 3D Semantic Segmentation on SensatUrban compared with those fully supervised methods. 
-<font color='Red'>5th Place</font>(2021.02) <br>
-
-Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case. <font color='Red'>1st Place</font> <br>
-
-<!-- in Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case.   <font color='Red'>1st Place</font> <br> -->
-
-Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Annotation Case. <font color='Red'>1st Place</font> <br>
-
-<!--  in Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case. <font color='Red'>1st Place</font> <br> -->
-
-Weakly Suprvised 3D Object Detection on ScanNet for the Limited Annotation Case. <font color='Red'>1st Place</font>  <br>
-
-<!-- in Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case. <font color='Red'>1st Place</font>  <br> -->
-The Hong Kong Regional Biggest Innovation Competitions. <font color='Red'>3rd Price</font> <br>
 
 Publications
 ======
@@ -69,6 +43,32 @@ Publications
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (oral) (WACV'21) </font>
 
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of <font color='Red'> IEEE Transactions on Image Processing </font>
+
+**AI Challenges and Competitions**
+======
+
+Fully suprvised 3D Semantic Segmentation on Paris-Lille-3D, <font color='Red'>3rd Place</font>(2020.05)  <br>
+
+Fully suprvised 3D Semantic Segmentation on Semantic3D, <font color='Red'>4th Place</font>(2020.08) (Reduced-8).   <br>
+
+Fully suprvised 3D Semantic Segmentation on ScanNet, <font color='Red'>6th Place</font>(2020.09) <br>
+
+Fully suprvised 3D Semantic Segmentation on S3DIS, <font color='Red'>2nd Place</font>(2020.09) <br>
+
+Fully suprvised 3D Semantic Segmentation on SensatUrban, <font color='Red'>5th Place</font>(2021.02) <br>
+
+Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place</font> <br>
+
+<!-- Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case,   <font color='Red'>1st Place</font> <br> -->
+
+Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place</font> <br>
+
+<!--  Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case, <font color='Red'>1st Place</font> <br> -->
+
+Weakly Suprvised 3D Object Detection on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place</font>  <br>
+
+<!-- Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case, <font color='Red'>1st Place</font>  <br> -->
+The Hong Kong Regional Biggest Innovation Competitions, <font color='Red'>3rd Price</font> <br>
 
 Awards
 ======
