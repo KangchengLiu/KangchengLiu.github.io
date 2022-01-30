@@ -49,7 +49,7 @@ Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color=
 
 Fully suprvised 3D Semantic Segmentation on Paris-Lille-3D, <font color='Red'>3rd Place</font> (2020.05)  <br>
 
-Fully suprvised 3D Semantic Segmentation on Semantic3D, <font color='Red'>4th Place</font> (2020.08) (Reduced-8).   <br>
+Fully suprvised 3D Semantic Segmentation on Semantic3D, <font color='Red'>6th Place</font> (2020.08) (Reduced-8).   <br>
 
 Fully suprvised 3D Semantic Segmentation on ScanNet, <font color='Red'>6th Place</font> (2020.09) <br>
 
