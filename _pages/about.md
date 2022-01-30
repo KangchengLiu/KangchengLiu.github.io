@@ -27,29 +27,29 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 **AI Challenges and Competitions**
 ======
 
-<font color='Red'>3rd Place</font>(2020.05) in fully suprvised 3D Semantic Segmentation on Paris-Lille-3D.  
+Fully suprvised 3D Semantic Segmentation on Paris-Lille-3D. <font color='Red'>3rd Place</font>(2020.05)  <br>
 
-<font color='Red'>4th Place</font>(2020.08) in fully suprvised 3D Semantic Segmentation on Semantic3D (Reduced-8).   <br>
+Fully suprvised 3D Semantic Segmentation on Semantic3D. <font color='Red'>4th Place</font>(2020.08) (Reduced-8).   <br>
 
-<font color='Red'>6th Place</font>(2020.09) in fully suprvised 3D Semantic Segmentation on ScanNet.  <br>
+Fully suprvised 3D Semantic Segmentation on ScanNet. <font color='Red'>6th Place</font>(2020.09) <br>
 
-<font color='Red'>2nd Place</font>(2020.09) in fully suprvised 3D Semantic Segmentation on S3DIS.  <br>
+Fully suprvised 3D Semantic Segmentation on S3DIS. <font color='Red'>2nd Place</font>(2020.09) <br>
 
-<font color='Red'>5th Place</font>(2021.02) in weakly suprvised 3D Semantic Segmentation on SensatUrban compared with those fully supervised methods.  <br>
+Weakly suprvised 3D Semantic Segmentation on SensatUrban compared with those fully supervised methods. 
+<font color='Red'>5th Place</font>(2021.02) <br>
 
-<font color='Red'>1st Place</font> in Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case.  <br>
+Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case. <font color='Red'>1st Place</font> <br>
 
-<!-- <font color='Red'>1st Place</font> in Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case.  <br> -->
+<!-- in Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case.   <font color='Red'>1st Place</font> <br> -->
 
-<font color='Red'>1st Place</font> in Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Annotation Case.  <br>
+Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Annotation Case. <font color='Red'>1st Place</font> <br>
 
-<!-- <font color='Red'>1st Place</font> in Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case.  <br> -->
+<!--  in Weakly Suprvised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case. <font color='Red'>1st Place</font> <br> -->
 
-<font color='Red'>1st Place</font> in Weakly Suprvised 3D Object Detection on ScanNet for the Limited Annotation Case. <br>
+Weakly Suprvised 3D Object Detection on ScanNet for the Limited Annotation Case. <font color='Red'>1st Place</font>  <br>
 
-<!-- <font color='Red'>1st Place</font> in Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case. <br> -->
-
-<font color='Red'>3rd Price</font> in the Hong Kong Regional Biggest Innovation Competitions. <br>
+<!-- in Weakly Suprvised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case. <font color='Red'>1st Place</font>  <br> -->
+The Hong Kong Regional Biggest Innovation Competitions. <font color='Red'>3rd Price</font> <br>
 
 Publications
 ======
