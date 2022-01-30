@@ -57,7 +57,7 @@ Fully suprvised 3D Semantic Segmentation on S3DIS, <font color='Red'>2nd Place</
 
 Fully suprvised 3D Semantic Segmentation on SensatUrban, <font color='Red'>5th Place</font> (2021.02) <br>
 
-Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place</font> (2021.05) <br>
+Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place (2021.05)</font> <br>
 
 <!-- Weakly Suprvised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case,   <font color='Red'>1st Place</font> (2021.08) <br> -->
 
