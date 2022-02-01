@@ -83,6 +83,8 @@ Awards
 
 **Kangcheng Liu**, Professor Charles K. Kao Student Creativity Merit Award 2021.
 
+**Kangcheng Liu**, Hong Kong Postgraduate Innovation and Entrepreneurship Competition, Third Prize.
+
 
 Hobbies
 ======
