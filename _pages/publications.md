@@ -20,7 +20,7 @@ Publication
 ======
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. 
-IEEE Transactions on Cybernetics (Revised).
+IEEE Transactions on Cybernetics (Minor Revision).
 
 **Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. IEEE Transactions on Power Systems, May 2018.
 
@@ -28,7 +28,7 @@ IEEE Transactions on Cybernetics (Revised).
 2021 38th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. 
-2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Under Review) </font>.
+2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 
 2022 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) <font color='Red'> (Under Review) </font>.
