@@ -36,11 +36,11 @@ Publications
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. <font color='Red'> 2022 39th IEEE International Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Oral) </font>.
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font> <font color='Red'> 2022 IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR) </font>. <font color='Red'> (Under Review) </font>.
+**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font> <font color='Red'> <font color='Red'> (Under Review) </font>.
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections  </font>. <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics </font>, <font color='Red'> (Oral) (ROBIO'2019) </font>
 
-**Kangcheng Liu**, and Ben M. Chen.  A Vision-based Approach for Unmanned Aerial Vehicles Landing on the Moving Platform and Search and Rescue Applications. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), (In Submission).
+**Kangcheng Liu**, and Ben M. Chen.  A Vision-based Approach for Unmanned Aerial Vehicles Landing on the Moving Platform and Search and Rescue Applications. 2022 International Conference on Control and Automation (ICCA), (In Submission).
 
 <!-- **Kangcheng Liu**, Guidong Yang, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission). -->
 
