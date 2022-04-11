@@ -74,7 +74,7 @@ Weakly Supervised 3D Instance Segmentation on ScanNet for the Limited Annotation
 Weakly Supervised 3D Object Detection on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place (2021.11)</font>  <br>
 
 <!-- Weakly Supervised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case, <font color='Red'>1st Place (2021.11)</font>  <br> -->
-The Hong Kong Regional Biggest Innovation Competitions, <font color='Red'>3rd Price</font> <br>
+The Hong Kong Regional Biggest Innovation Competitions, <font color='Red'>3rd Prize</font> <br>
 
 Awards
 ======
