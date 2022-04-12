@@ -40,9 +40,9 @@ Publications
 
 **Kangcheng Liu**, and Ben M. Chen.  A Vision-based Approach for Unmanned Aerial Vehicles Landing on the Moving Platform and Search and Rescue Applications. 2022 International Conference on Control and Automation (ICCA), (In Submission).
 
-<!-- **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission). -->
+<!-- **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022. -->
 
-**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Segmentation and Dectection in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission).
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Segmentation and Dectection in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (oral) (WACV'21) </font>
 
