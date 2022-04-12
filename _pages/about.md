@@ -28,8 +28,6 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 Publications
 ======
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. <font color='Red'> IEEE Transactions on Cybernetics (Accepted). </font>
-
 **Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery </font>. <font color='Red'> IEEE Transactions on Power Systems, May 2018. </font>
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling  </font>. <font color='Red'> 2021 38th IEEE International Conference on Robotics and Automation (ICRA) </font>. <font color='Red'> (Oral) </font>.
@@ -42,13 +40,17 @@ Publications
 
 **Kangcheng Liu**, and Ben M. Chen.  A Vision-based Approach for Unmanned Aerial Vehicles Landing on the Moving Platform and Search and Rescue Applications. 2022 International Conference on Control and Automation (ICCA), (In Submission).
 
-<!-- **Kangcheng Liu**, Guidong Yang, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission). -->
+<!-- **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission). -->
 
-**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission).
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Segmentation and Dectection in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), (In Submission).
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (oral) (WACV'21) </font>
 
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of <font color='Red'> IEEE Transactions on Image Processing </font>
+  
+  
+**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. <font color='Red'> IEEE Transactions on Cybernetics (Accepted). </font>
+
 
 **AI Challenges and Competitions**
 ======
