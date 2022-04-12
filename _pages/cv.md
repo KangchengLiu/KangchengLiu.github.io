@@ -31,11 +31,12 @@ IEEE Transactions on Cybernetics (Revised).
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. 
 2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>.
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 2022 IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR). <font color='Red'> (Under Review) </font>.
+<!-- **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 2022 IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR). <font color='Red'> (Under Review) </font>. -->
 
-**Kangcheng Liu**, and Ben M. Chen.  A Vision-based Approach for Unmanned Aerial Vehicles Landing on the Moving Platform and Search and Rescue Applications.</font> 2022 International Conference on Unmanned Aircraft Systems (ICUAS), <font color='Red'>(In Submission).
 
-**Kangcheng Liu**, Guidong Yang, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Inspection.</font> 2022 International Conference on Unmanned Aircraft Systems (ICUAS), <font color='Red'>(In Submission).
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
+
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Segmentation and Dectection in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections  </font>. <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics</font>, <font color='Red'> (Oral) (ROBIO'2019) </font>
 
