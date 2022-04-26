@@ -38,20 +38,26 @@ Publications
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections  </font>. <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics </font>, <font color='Red'> (Oral) (ROBIO'2019) </font>
 
-**Kangcheng Liu**, and Ben M. Chen.  A Vision-based Approach for Unmanned Aerial Vehicles Landing on the Moving Platform and Search and Rescue Applications. 2022 International Conference on Control and Automation (ICCA), (In Submission).
+**Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
+  
+  **Kangcheng Liu**, and Ben M. Chen.  An Enhanced LiDAR Inertial Localization and Mapping System for Unmanned Ground Vehicles. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
 
-<!-- **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022. -->
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Classification. 2022 International Conference on Control and Automation (ICCA), 2022.
 
-**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Segmentation and Dectection in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Segmentation and Detection. 2022 International Conference on Control and Automation (ICCA), 2022.
 
-Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (oral) (WACV'21) </font>
+  
+Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision </font>, <font color='Red'> 2021 (Oral) (WACV'21) </font>
 
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of <font color='Red'> IEEE Transactions on Image Processing </font>
   
   
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. <font color='Red'> IEEE Transactions on Cybernetics (Accepted). </font>
+**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. <font color='Red'> IEEE Transactions on Cybernetics, 2022. </font>
 
-
+Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'21) </font>, <font color='Red'> 2021 (Oral) </font>
+  
+Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. \textbf{\textit{2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.}}}
+  
 **AI Challenges and Competitions**
 ======
 
