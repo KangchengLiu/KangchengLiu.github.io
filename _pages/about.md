@@ -55,7 +55,7 @@ Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color=
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'21) </font>, <font color='Red'> 2021 (Oral) </font>
   
-Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. \textbf{\textit{2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.}}}
+Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
   
 **AI Challenges and Competitions**
 ======
