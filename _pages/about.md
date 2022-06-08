@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kangcheng Liu"
+title: "Dr. Kangcheng Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D candidate <br>
+Ph.D <br>
 Robotics and Computer Vision, The Chinese University of Hong Kong <br>
 The Chinese University of Hong Kong, Hong Kong SAR, China
 
@@ -19,7 +19,7 @@ My research interests lie in the fields of Robotics and Automation, 3D Deep Lear
 
 **Short Introduction**
 ======
-Kangcheng Liu is currently a Ph.D candidate at The Chinese University of Hong Kong from Sep. 2018 and will obtain his PhD degree in May 2022. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
+Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
 
 
 His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
