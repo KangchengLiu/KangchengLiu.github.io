@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D <br>
+Ph.D. <br>
 Robotics and Computer Vision, The Chinese University of Hong Kong <br>
 The Chinese University of Hong Kong, Hong Kong SAR, China
 
