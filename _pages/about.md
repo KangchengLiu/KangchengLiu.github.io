@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Ph.D. <br>
-Robotics and Computer Vision, The Chinese University of Hong Kong <br>
+Robotics and Computer Vision, The Chinese University of Hong Kong, Nanyang Technological University<br>
 The Chinese University of Hong Kong, Hong Kong SAR, China
 
 **Research Interests**
