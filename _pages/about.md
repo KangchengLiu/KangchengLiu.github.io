@@ -36,7 +36,7 @@ Publications
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception.   </font> <font color='Red'> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). </font> <font color='Red'> (Oral) </font>.
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> <font color='Red'> <font color='Red'> </font>
+**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. ECCV. </font> <font color='Red'> <font color='Red'> </font>
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO) </font>, <font color='Red'> (Oral) </font>
 
