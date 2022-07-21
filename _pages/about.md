@@ -32,13 +32,13 @@ Publications
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font> <font color='Red'> IEEE Transactions on Cybernetics, 2022. </font>
 
-**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. font color='Red'> 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). < (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> <font color='Red'> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). </font> <font color='Red'> (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> <font color='Red'> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). </font> <font color='Red'> (Oral) </font>.
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. ECCV. </font> <font color='Red'> <font color='Red'> </font>
+**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> <font color='Red'> ECCV. <font color='Red'> </font>
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> <font color='Red'> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO) </font>, <font color='Red'> (Oral) </font>
 
