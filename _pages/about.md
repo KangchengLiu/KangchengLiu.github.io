@@ -32,8 +32,6 @@ Publications
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font> <font color='Red'> IEEE Transactions on Cybernetics, 2022. </font>
 
-**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. font color='Red'> 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). < (Oral) </font>.
-
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> <font color='Red'> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). </font> <font color='Red'> (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> <font color='Red'> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). </font> <font color='Red'> (Oral) </font>.
@@ -55,6 +53,8 @@ Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color=
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. <font color='Red'> IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), </font> <font color='Red'> (Oral) </font>
   
 Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
+  
+**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. font color='Red'> 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). </font> <font color='Red'> (Oral) 
   
 **AI Challenges and Competitions**
 ======
