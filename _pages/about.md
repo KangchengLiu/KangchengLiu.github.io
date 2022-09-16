@@ -13,12 +13,12 @@ Robotics and Computer Vision, Nanyang Technological University, The Chinese Univ
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China -->
 
 **Research Interests**
-======
+=======
 My research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. 
 
 
 **Short Introduction**
-======
+=======
 Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
 
 
