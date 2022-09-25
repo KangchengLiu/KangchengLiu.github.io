@@ -32,7 +32,7 @@ Publications
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, 2022. 
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). </font> <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
 
