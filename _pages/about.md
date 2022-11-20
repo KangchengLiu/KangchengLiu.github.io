@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Robotics Engineer and Research Fellow<br>
+Research Fellow and Senior Robotics Engineer <br>
 Robotics and Computer Vision, Nanyang Technological University, The Chinese University of Hong Kong. <br>
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China -->
 
