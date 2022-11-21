@@ -12,7 +12,7 @@ Research Fellow and Senior Robotics Engineer <br>
 Robotics and Computer Vision, Nanyang Technological University, The Chinese University of Hong Kong. <br>
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China -->
 
-![Words](../images/kcliu_keywords_v1.png) 
+![Words](../images/kcliu_keywords-v1.png) 
 
 **Research Interests**
 =======
