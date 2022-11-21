@@ -12,6 +12,8 @@ Research Fellow and Senior Robotics Engineer <br>
 Robotics and Computer Vision, Nanyang Technological University, The Chinese University of Hong Kong. <br>
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China -->
 
+![Words](https://github.com/KangchengLiu/KangchengLiu.github.io/tree/master/images/kcliu_keywords_v1.png) 
+
 **Research Interests**
 =======
 My research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. 
@@ -56,7 +58,6 @@ Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Di
   
 **Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font> 
   
-![Words](https://github.com/KangchengLiu/KangchengLiu.github.io/tree/master/images/kcliu_keywords_v1.png) 
   
 **AI Challenges and Competitions**
 ======
