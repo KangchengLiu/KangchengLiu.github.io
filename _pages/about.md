@@ -56,7 +56,7 @@ Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Di
   
 **Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font> 
   
- ![Words](https://github.com/KangchengLiu/KangchengLiu.github.io/tree/master/images/kcliu_keywords_v1.0.png) 
+![Words](https://github.com/KangchengLiu/KangchengLiu.github.io/tree/master/images/kcliu_keywords_v1.0.png) 
   
 **AI Challenges and Competitions**
 ======
