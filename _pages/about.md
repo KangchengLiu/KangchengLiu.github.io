@@ -30,9 +30,9 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 Publications
 ======
 
-**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems, May 2018. 
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (Oral) (TPS Highly Cited Paper) </font>. 
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, 2022. 
+**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, March 2022. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -46,15 +46,28 @@ Publications
 
 **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959">IEEE Xplore</a></span><br>
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> ECCV. <font color='Red'> </font> 
+**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> European Conference on Computer Vision (ECCV) 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> ECCV Springer Book </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Smart-Robotics-Scientist/Weakly-Supervised-3D">Code</a></span>
+
+**Kangcheng Liu**. <font color='Navy'> </font> ACM International Conference on Multimedia (ACM MM) 2022. <font color='Red'> </font> 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548304"> ACM Digital Library </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Code</a></span>
+
+
+**Kangcheng Liu** and Ben M. Chen. <font color='Navy'> </font> IEEE Transactions on Industrial Electronics, 2022. <font color='Red'> </font> 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Code</a></span>
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), <font color='Red'> (Oral) </font>
 
