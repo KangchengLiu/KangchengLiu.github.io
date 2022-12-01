@@ -54,7 +54,7 @@ Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> ECCV Springer Book </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/Smart-Robotics-Scientist/Weakly-Supervised-3D">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Code</a></span>
 
 **Kangcheng Liu**. <font color='Navy'> </font> ACM International Conference on Multimedia (ACM MM) 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
