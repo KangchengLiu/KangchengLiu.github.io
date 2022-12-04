@@ -31,7 +31,7 @@ Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) fro
 His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
 
 
-Publications
+Selected Representative Publications
 ======
 
 **Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (TPS Highly Cited Paper) </font>. 
