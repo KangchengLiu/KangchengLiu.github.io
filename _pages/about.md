@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 Research Fellow and Senior Robotics Engineer <br>
-Robotics and Computer Vision, Nanyang Technological University, The Chinese University of Hong Kong. <br>
+Robotics and Computer Vision, Nanyang Technological University. <br>
+Doctor of Philosophy, The Chinese University of Hong Kong. <br>
+
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China -->
 
 ![Words](../images/kcliu_keywords-v1.png) 
 
 **Research Interests**
 =======
-My research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. 
+My research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. My works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals.
 
 
 **Short Introduction**
@@ -60,18 +62,22 @@ Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548304"> ACM Digital Library </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets</a></span>
 
 
 **Kangcheng Liu** and Ben M. Chen. <font color='Navy'> </font> IEEE Transactions on Industrial Electronics, 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), <font color='Red'> (Oral) </font>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-**Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
+<!-- **Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
   
  **Kangcheng Liu**, and Ben M. Chen.  An Enhanced LiDAR Inertial Localization and Mapping System for Unmanned Ground Vehicles. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
 
@@ -85,7 +91,7 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
   
 Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
   
-**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font> 
+**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>  -->
   
   
 **AI Challenges and Competitions**
