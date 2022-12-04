@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Research Fellow and Senior Robotics Engineer <br>
-Robotics and Computer Vision, Nanyang Technological University. <br>
+Research Fellow and Senior Engineer. <br>
+Computer Vision and Robotics, Nanyang Technological University. <br>
 Doctor of Philosophy, The Chinese University of Hong Kong. <br>
 
-<!-- The Chinese University of Hong Kong, Hong Kong SAR, China -->
+<!-- The Chinese University of Hong Kong, Hong Kong SAR, China --> 
 
 ![Words](../images/kcliu_keywords-v1.png) 
 
 **Research Interests**
 =======
-My research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. My works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals.
+Dr. Liu's research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. My works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
+
+He served as the program session chair and the program commitee member of the two flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He served as the reviewers of more than 20 internation conferences and journals.
 
 
 **Short Introduction**
@@ -76,6 +78,12 @@ Publications
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
+
+  
+**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/slam_resources">Codes and Datasets of LiDAR-SLAM.</a></span>
 
 <!-- **Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
   
