@@ -68,13 +68,13 @@ Publication
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://ieeexplore.ieee.org/abstract/document/9831831"> IEEE Xplore </a></span><br>
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-  <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes and Datasets.</a></span>
+  <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
 
   **Kangcheng Liu**, and Ben M. Chen.  An Enhanced LiDAR Inertial Localization and Mapping System for Unmanned Ground Vehicles. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://ieeexplore.ieee.org/abstract/document/9831822"> IEEE Xplore </a></span><br>
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-  <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes and Datasets.</a></span>
+  <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
 
 **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Classification. 2022 International Conference on Control and Automation (ICCA), 2022.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -86,7 +86,7 @@ Publication
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes</a></span>
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of <font color='Red'> IEEE Transactions on Image Processing. </font>
 
