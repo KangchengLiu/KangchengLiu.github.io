@@ -83,7 +83,7 @@ Selected Representative Publications
 **Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/slam_resources">Codes and Datasets of LiDAR-SLAM.</a></span>
+    <span><a href="https://github.com/KangchengLiu/slam_resources">Codes of LiDAR-SLAM.</a></span>
 
 <!-- **Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
   
