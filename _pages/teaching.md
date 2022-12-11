@@ -73,6 +73,3 @@ FYP Student Thesis Project and Thesis Mentor, UAV Light Show in the Vicon Enviro
 FYP Student Thesis Project and Thesis Mentor, UAV Caligraphy. <br /> <br />
   
 Teaching Assistant, 2018 Fall, Chinese University of Hong Kong, <b> MAEG 3006 Topics in Robotics </b> (Undergraduate) <br /> <br />
-  
-</body>
-</html>
