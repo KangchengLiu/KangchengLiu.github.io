@@ -18,7 +18,7 @@ Doctor of Philosophy, The Chinese University of Hong Kong. <br>
 
 **Research Interests**
 =======
-Dr. Liu's research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. My works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
+Dr. Liu's research interests lie in the fields of Robotics and Automation, 3D Deep Learning, Computer graphics and 3D,  Robotics Scene Understanding, Computer Vision. His works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
 He served as the program session chair and the program commitee member of the two flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He served as the reviewers of more than 20 internation conferences and journals.
 
