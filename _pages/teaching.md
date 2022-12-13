@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 <br /> <br />
-
+<!-- NTU  NTU -->
 
 **2021-2022 Academic Year**: <br /> <br />
   
 Postgraduate Tutorial, Robotic Localization and Scene Understanding: Methodology and Applications. <br /> <br />
 
-NTU MSc Student Thesis Project and Thesis Mentor, LiDAR-based SLAM systems. <br /> <br />
+MSc Student Thesis Postdoctoral Project and Thesis Mentor, LiDAR-based SLAM systems. <br /> <br />
 
-NTU MSc Student Thesis Project and Thesis Mentor, Medical Image Segmentation for the CVC-ClinicDB Benchmark. <br /> <br />
+MSc Student Thesis Postdoctoral Project and Thesis Mentor, Medical Image Segmentation for the CVC-ClinicDB Benchmark. <br /> <br />
 
 Teaching Assistant, 2021 Fall, Chinese University of Hong Kong, MAEG 5725 Control and Industrial Automation (Postgraduate) <br /> <br />
 

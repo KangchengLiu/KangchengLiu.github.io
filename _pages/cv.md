@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2018.09 - 2022.06 Ph.D candidate in Robotics and Automation, **Chinese University of Hong Kong, Hong Kong**. <br>
-&ensp;&ensp;&ensp;(supervised by [Prof. Ben M. Chen](http://www.mae.cuhk.edu.hk/~bmchen/), GPA: 4.2/4.3) 
+&ensp;&ensp;&ensp;(supervised by [Prof. Ben M. Chen](http://www.mae.cuhk.edu.hk/~bmchen/), GPA: 3.9/4.3) 
 * 2014.09 - 2018.06 B.Eng. in Electrical Engineering and Automation, **Harbin Intitute Technology, China**. <br>
 &ensp;&ensp;&ensp;(GPA: 4.0/4.0, rank 1 / 102) 
 
