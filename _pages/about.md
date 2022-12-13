@@ -34,10 +34,7 @@ His Research Interests include Robotics and Automation, UAV Related Computer Vis
 Selected Representative Publications
 ======
 
-**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (TPS Highly Cited Paper) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
-    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Code</a></span>
+
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, March 2022. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -75,6 +72,11 @@ Selected Representative Publications
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
+
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (TPS Highly Cited Paper) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Code</a></span>
 
 **Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), <font color='Red'> (Oral) </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
