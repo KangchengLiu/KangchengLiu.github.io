@@ -79,12 +79,12 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author and 
 author: 
-  name             : "Kangcheng Liu"
+  name             : "Dr. Kangcheng Liu"
   avatar           : "kcliu.jpg"
-  bio              : "3D Vision and Robotics. The Chinese University of Hong Kong"
-  location         : "Hong Kong SAR"
+  bio              : "3D Vision and Robotics. Delta@NTU, Nanyang Technological University. The Chinese University of Hong Kong. Harbin Institute of Technology."
+  location         : "Singapore, Hong Kong SAR"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en"
