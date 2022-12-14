@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Research Fellow and Senior Engineer. <br>
-Computer Vision and Robotics, Nanyang Technological University. <br>
+Research Fellow and Robotics Engineer. <br>
+3D Vision and Robotics, Nanyang Technological University. <br>
 Doctor of Philosophy, The Chinese University of Hong Kong. <br>
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China --> 
@@ -18,17 +18,18 @@ Doctor of Philosophy, The Chinese University of Hong Kong. <br>
 
 **Research Interests**
 =======
-Dr. Liu's research interests lie widely in the fields of 3D Vision and Robotics. He specialized in Robotics and Automation, Representation Learning, Data-efficient Learning, 3D Deep Learning, Computer graphics and 3D, and Robotics Scene Understanding. His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
-
-He served as the program session chair and the program commitee member of the two flagship international robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He served as the reviewers of more than 20 international conferences and journals.
+Dr. Liu's research interests lie widely in the fields of 3D Vision and Robotics. He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Data-efficient Learning, 3D Deep Learning, Computer graphics and 3D, and Robotics Scene Understanding. 
 
 
 **Short Introduction**
 =======
 Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
 
+His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
-His Research Interests include Robotics and Automation, UAV Related Computer Vision,  Computer Graphics and 3D,  Robotics Scene Understanding.
+He served as the program session chair and the program commitee member of the two flagship international robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He served as the reviewers of more than 20 international conferences and more than 10 international journals.
+
+<!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
 
 Selected Representative Publications

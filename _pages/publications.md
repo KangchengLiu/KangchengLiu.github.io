@@ -16,8 +16,14 @@ You can find my representative publication list on my [Google Scholar profile](h
 {% endfor %}
 
 
+
+
 Publication
 ======
+
+**Kangcheng Liu**. <font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font>  International Journal of Computer Vision, 2022. 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, March 2022. 
@@ -118,3 +124,6 @@ Working experience
 
 <!-- **Journal**
 ====== -->
+<!-- 
+    <!-- <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore</a></span><br> --> -->
