@@ -18,7 +18,7 @@ Doctor of Philosophy, The Chinese University of Hong Kong. <br>
 
 **Research Interests**
 =======
-Dr. Liu's research interests lie widely in the fields of 3D Vision and Robotics. He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Data-efficient Learning, 3D Deep Learning, Computer graphics and 3D, and Robotics Scene Understanding. 
+Dr. Liu's research interests lie widely in the fields of 3D Vision and Robotics. He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Data-efficient Learning, 3D Deep Learning, Computer Graphics, UAV/UGV Navigation, and Robotics Scene Understanding. 
 
 
 **Short Introduction**
@@ -27,7 +27,7 @@ Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) fro
 
 His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
-He served as the program session chair and the program commitee member of the two flagship international robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He served as the reviewers of more than 20 international conferences and more than 10 international journals.
+He served as the program session chair and the program commitee member of the two flagship international robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He served as the reviewers of more than 20 kinds of international conferences and more than kinds of 10 international journals.
 
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
