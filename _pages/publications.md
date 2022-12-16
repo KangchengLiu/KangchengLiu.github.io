@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can find my representative publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en).
+You can find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en).
 {% if author.googlescholar %}
   You can find my full publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -126,4 +126,4 @@ Working experience
 ====== -->
 <!-- 
     <!-- <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore</a></span><br> --> -->
+    <!-- <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore  representative</a></span><br> --> 
