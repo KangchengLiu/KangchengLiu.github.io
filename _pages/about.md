@@ -136,7 +136,9 @@ Weakly Supervised 3D Instance Segmentation on ScanNet for the Limited Annotation
 Weakly Supervised 3D Object Detection on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place (2021.11)</font>  <br>
 
 <!-- Weakly Supervised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case, <font color='Red'>1st Place (2021.11)</font>  <br> -->
-The Hong Kong Regional Biggest Innovation Competitions, <font color='Red'>3rd Prize</font> <br>
+The Hong Kong Regional Biggest Innovation and Entrepreneurship Competitions 2021, <font color='Red'>3rd Prize</font> <br>
+
+The Hong Kong Regional Biggest Innovation and Entrepreneurship Competitions 2022, <font color='Red'>Merit Prize</font> <br>
 
 Awards
 ======
@@ -147,7 +149,10 @@ Awards
 
 **Kangcheng Liu**, Professor Charles K. Kao Student Creativity Merit Award 2021.
 
-**Kangcheng Liu**, Hong Kong Postgraduate Innovation and Entrepreneurship Competition, Third Prize.
+**Kangcheng Liu**, Hong Kong Biggest Postgraduate Innovation and Entrepreneurship Competition 2021, Third Prize.
+
+
+**Kangcheng Liu**, Hong Kong Biggest Postgraduate Innovation and Entrepreneurship Competition 2022, Merit Prize.
 
 
 Hobbies
