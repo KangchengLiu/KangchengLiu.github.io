@@ -16,9 +16,9 @@ You can find my full publication list on my [Google Scholar profile](https://sch
 {% endfor %}
 
 
+<!-- Representative  -->
 
-
-Publication
+Selected Publications
 ======
 
 **Kangcheng Liu**. <font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font>  International Journal of Computer Vision, 2022. 
