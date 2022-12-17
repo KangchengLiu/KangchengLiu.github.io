@@ -53,13 +53,13 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> European Conference on Computer Vision (ECCV) 2022. <font color='Red'> </font> 
+**Kangcheng Liu**, Yuzhi Zhao, Qiang Nie, and Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> European Conference on Computer Vision (ECCV) 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> ECCV Springer Book </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -90,7 +90,7 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
   
-**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Aoran Xiao, and Shijian Lu, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/slam_resources">Codes of LiDAR-SLAM.</a></span>

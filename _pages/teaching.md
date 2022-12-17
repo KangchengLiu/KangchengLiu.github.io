@@ -16,7 +16,7 @@ MSc Student Thesis Postdoctoral Project and Thesis Mentor, LiDAR-based SLAM syst
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, Medical Image Segmentation for the CVC-ClinicDB Benchmark. <br /> <br />
 
-Teaching Assistant, 2021 Fall, Chinese University of Hong Kong, MAEG 5725 Control and Industrial Automation (Postgraduate) <br /> <br />
+Teaching Assistant, 2021 Fall, Chinese University of Hong Kong, MAEG 5725 Control and Industrial Automation. (Postgraduate) <br /> <br />
 
 **2020-2021 Academic Year**: <br /> <br />
 
@@ -36,9 +36,9 @@ FYP Student Thesis Project and Thesis Mentor, UAV Caligraphy. <br /> <br />
   
 Teaching Assistant, 2020 Spring, Chinese University of Hong Kong, <b>Topics in Robotics </b> (Postgraduate) <br /> <br />
   
-Teaching Assistant, 2020 Fall, Chinese University of Hong Kong, <b>MAEG 5725 Control and Industrial Automation </b> (Postgraduate) <br /> <br />
+Teaching Assistant, 2020 Fall, Chinese University of Hong Kong, <b>MAEG 5725 Control and Industrial Automation. </b> (Postgraduate) <br /> <br />
 
-Teaching Assistant, 2020 Spring, Chinese University of Hong Kong, <b> Linear System Theory and Design </b> (Postgraduate) <br /> <br />
+Teaching Assistant, 2020 Spring, Chinese University of Hong Kong, <b> Advanced Robotics. </b> (Postgraduate) <br /> <br />
 
 <br /> <br />
 
@@ -58,7 +58,7 @@ FYP Student Thesis Project and Thesis Mentor, UAV Light Show in the Vicon Enviro
   
 FYP Student Thesis Project and Thesis Mentor, UAV Caligraphy. <br /> <br />
   
-Teaching Assistant, 2019 Fall, Chinese University of Hong Kong, <b> MAEG 5725 Control and Industrial Automation </b> (Postgraduate) <br /> <br />
+Teaching Assistant, 2019 Fall, Chinese University of Hong Kong, <b> MAEG 5725 Control and Industrial Automation. </b> (Postgraduate) <br /> <br />
   
 <br>
 
@@ -66,10 +66,10 @@ Teaching Assistant, 2019 Fall, Chinese University of Hong Kong, <b> MAEG 5725 Co
 
 Postgraduate Project Tutorial, UAV Landing on the Moving Platform. <br /> <br />
   
-Teaching Assistant, 2019 Fall, Chinese University of Hong Kong, <b>MAEG 5725 Control and Industrial Automation </b> (Postgraduate) <br /> <br />
+Teaching Assistant, 2019 Fall, Chinese University of Hong Kong, <b>MAEG 5725 Control and Industrial Automation. </b> (Postgraduate) <br /> <br />
   
 FYP Student Thesis Project and Thesis Mentor, UAV Light Show in the Vicon Environment and related Simulations. <br /> <br />
   
 FYP Student Thesis Project and Thesis Mentor, UAV Caligraphy. <br /> <br />
   
-Teaching Assistant, 2018 Fall, Chinese University of Hong Kong, <b> MAEG 3006 Topics in Robotics </b> (Undergraduate) <br /> <br />
+Teaching Assistant, 2018 Fall, Chinese University of Hong Kong, <b> MAEG 3006 Topics in Robotics. </b> (Undergraduate) <br /> <br />

@@ -109,7 +109,7 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
   
 Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
 
-Working experience
+Working experience before PhD.
 ======
 
 * Summer 2017: Research Assistant, Chinese Academy of Science, Instutute of Automation.
@@ -120,7 +120,7 @@ Working experience
 * Fall 2015: Research Assistant
   * Harbin Institute of Techinology
   * Duties included: Power  Electronics, Buck/ Boost Circuit Design, Digital Signal Process based Control of the Power Inverter Systems, Stm32 based control of the complicated electric circuit.
-  * Supervisor: Professor Huihui Song, Professor Qu Yanbin.
+  <!-- * Supervisor: Professor Huihui Song, Professor Qu Yanbin. -->
 
 <!-- **Journal**
 ====== -->
