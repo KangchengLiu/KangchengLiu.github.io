@@ -25,7 +25,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Re
 
 **Short Introduction**
 =======
-Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology, July 2018. 
+Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology. He is the HKPFS awardee (TOP 180 in Hong Kong in 2018) during his PhD, and he was selected as the TOP-20 annual outstanding graduate of HIT.
 
 His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
@@ -109,7 +109,7 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
   
 Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
   
-**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>  -->
+**Kangcheng Liu**, D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font> July 2018--> 
   
   
 **AI Challenges and Competitions**
