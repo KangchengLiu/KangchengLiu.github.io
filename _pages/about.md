@@ -72,7 +72,7 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets</a></span>
 
 
-**Kangcheng Liu** and Ben M. Chen. <font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From Database towards Real-Site Infrastructural Inspections. </font> IEEE Transactions on Industrial Electronics, 2022. <font color='Red'> </font> 
+**Kangcheng Liu** and Ben M. Chen. <font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font> IEEE Transactions on Industrial Electronics, 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
