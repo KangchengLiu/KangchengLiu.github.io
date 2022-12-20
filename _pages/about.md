@@ -29,7 +29,7 @@ Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) fro
 
 His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
-In terms of service, he has been nominated to serve as the program session chair, and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
+In terms of service, he has been nominated to serve as the program session chair and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
 
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
@@ -143,7 +143,12 @@ The Hong Kong Regional Biggest Innovation and Entrepreneurship Competitions 2022
 Awards
 ======
 
-**Kangcheng Liu**,  Hong Kong PhD Fellowship Scheme (HKPFS). 2018.
+
+**Kangcheng Liu**, China National Robot Competition, Third Prize.
+
+**Kangcheng Liu**, China National Mathematics Competition, First Prize.
+
+**Kangcheng Liu**,  Hong Kong PhD Fellowship (HKPFS) Awardee. 2018.
 
 **Kangcheng Liu**,  CUHK Vice-Chancellor Scholarship 2018.
 
@@ -151,8 +156,13 @@ Awards
 
 **Kangcheng Liu**, Hong Kong Biggest Postgraduate Innovation and Entrepreneurship Competition 2021, Third Prize.
 
-
 **Kangcheng Liu**, Hong Kong Biggest Postgraduate Innovation and Entrepreneurship Competition 2022, Merit Prize.
+
+**Kangcheng Liu**, HIT Merit Student Pioneer.
+
+**Kangcheng Liu**, American Mathematical Modeling Competition, Second Prize.
+
+**Kangcheng Liu**,  TOP-20 annual outstanding graduate of HIT.
 
 
 Hobbies
