@@ -29,7 +29,7 @@ Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) fro
 
 His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
-In terms of service, he has been nominated to serve as the program session chair and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
+In terms of service, he has been nominated to serve as the program session chair, and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
 
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
