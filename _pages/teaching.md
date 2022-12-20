@@ -8,7 +8,7 @@ author_profile: true
 <br /> <br />
 <!-- NTU  NTU -->
 
-**2021-2022 Academic Year**: <br /> <br />
+**2022-2023 Academic Year**: <br /> <br />
   
 Postgraduate Tutorial, Robotic Localization and Scene Understanding: Methodology and Applications. <br /> <br />
 
@@ -16,7 +16,16 @@ MSc Student Thesis Postdoctoral Project and Thesis Mentor, LiDAR-based SLAM syst
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, Medical Image Segmentation for the CVC-ClinicDB Benchmark. <br /> <br />
 
+
+**2021-2022 Academic Year**: <br /> <br />
+
 Teaching Assistant, 2021 Fall, Chinese University of Hong Kong, MAEG 5725 Control and Industrial Automation. (Postgraduate) <br /> <br />
+
+MSc Student Thesis Project and Thesis Mentor, LiDAR based Loop clusure of large scale 3D scenes. <br /> <br />
+
+MSc Student Thesis Project and Thesis Mentor, FG-Net-base 3D scene understanding and 3D object detections. <br /> <br />
+
+
 
 **2020-2021 Academic Year**: <br /> <br />
 
@@ -28,7 +37,7 @@ MSc Student Thesis Project and Thesis Mentor, Deep Learning based glass defects 
   
 MSc Student Thesis Project and Thesis Mentor, Yolo based object detection and related deployment on the unmanned vehicles. <br /> <br />
   
-MSc Student Thesis Project and Thesis Mentor, PointNet base 3D scene understanding and object detections. <br /> <br />
+MSc Student Thesis Project and Thesis Mentor, FG-Net-base 3D scene understanding and 3D object detections. <br /> <br />
 
 FYP Student Thesis Project and Thesis Mentor, UAV Light Show. <br /> <br />
   

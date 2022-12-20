@@ -158,6 +158,6 @@ Awards
 Hobbies
 ======
 
-Reading, Guitar, Hiking, Football, Basketball, Playing Video Games, Singing, History, etc.
+Reading, Guitar, Football, Basketball, Volleyball, Playing Video Games, Singing, History, Hiking, etc.
 
 
