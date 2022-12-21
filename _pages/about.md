@@ -25,7 +25,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Re
 
 **Short Introduction**
 =======
-Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology. He was selected as the HKPFS awardee (TOP 180 at Hong Kong in 2018) during his PhD, and he was also selected as the TOP-20 annual outstanding graduate of HIT.
+Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology. He was selected as the HKPFS awardee (TOP 162 at Hong Kong in 2018) during his PhD, and he was also selected as the TOP-20 annual outstanding graduate of HIT.
 
 His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
