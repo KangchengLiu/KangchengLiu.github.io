@@ -49,7 +49,7 @@ Selected Representative Publications
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore</a></span><br>
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9561496">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
