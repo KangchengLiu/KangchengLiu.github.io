@@ -61,7 +61,9 @@ Selected Representative Publications
 
 **Kangcheng Liu**, Yuzhi Zhao, Qiang Nie, and Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> European Conference on Computer Vision (ECCV) 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> ECCV Springer Book </a></span><br>
+    <span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19815-1_3"> ECCV Springer Book </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> PDF </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Code</a></span>
 
