@@ -31,7 +31,7 @@ His first-author works in terms of 3D computer vision and robotics are widely pu
 
 In terms of service, he has been nominated by the IEEE Robotics and Automation Society (IEEE RAS) to serve as the program session chair and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
 
-You can find the developed open-sourced project on his [Github Project Page](https://github.com/KangchengLiu).
+You can find his developed open-sourced project on his [Github Project Page](https://github.com/KangchengLiu).
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
 
@@ -42,13 +42,13 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, March 2022. 
+**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics, March 2022. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9561496">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -81,12 +81,12 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Code</a></span>
 
-**Kangcheng Liu**, Xiaodong Han, Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), <font color='Red'> (Oral) </font>
+**Kangcheng Liu**, Xiaodong Han, and Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), <font color='Red'> (Oral) </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
