@@ -31,6 +31,7 @@ His first-author works in terms of 3D computer vision and robotics are widely pu
 
 In terms of service, he has been nominated by the IEEE Robotics and Automation Society (IEEE RAS) to serve as the program session chair and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
 
+You can find the developed open-sourced project on his [Github Project Page](https://github.com/KangchengLiu).
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
 
