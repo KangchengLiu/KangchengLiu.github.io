@@ -55,7 +55,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. [<font color='Navy'> WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding.<font>](https://ieeexplore.ieee.org/abstract/document/9811959) </ [2022 39th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. [<font color='Navy'> WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding.<font>](https://ieeexplore.ieee.org/abstract/document/9811959) [2022 39th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -76,13 +76,13 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets</a></span>
 
 
-**Kangcheng Liu** and Ben M. Chen. [<font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font>](https://ieeexplore.ieee.org/abstract/document/9900135) [IEEE Transactions on Industrial Electronics (TIE),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 2022. <font color='Red'> </font> 
+**Kangcheng Liu** and Ben M. Chen. [<font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font>](https://ieeexplore.ieee.org/abstract/document/9900135) [IEEE Transactions on Industrial Electronics (TIE),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 2022, , IF in 2021: 8.162. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. [<font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery.</font>](https://ieeexplore.ieee.org/abstract/document/8064700)  [IEEE Transactions on Power Systems (TPS),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) May 2018 <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. [<font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery.</font>](https://ieeexplore.ieee.org/abstract/document/8064700)  [IEEE Transactions on Power Systems (TPS),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) May 2018, IF in 2021: 7.326. <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Code</a></span>
