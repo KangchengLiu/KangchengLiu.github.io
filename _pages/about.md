@@ -25,42 +25,43 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Re
 
 **Short Introduction**
 =======
-Kangcheng Liu started his Ph.D at The Chinese University of Hong Kong (CUHK) from Aug. 2018 and received his PhD degree in May 2022 from CUHK. He obtained the B.Eng degree at the Department of Electrical Engineering and Automation, Harbin Institute of Technology. He was selected as the HKPFS awardee (TOP 162 at Hong Kong in 2018) during his PhD, and he was also selected as the TOP-20 annual outstanding graduate of HIT.
+Kangcheng Liu received his Ph.D. degree from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK) in May 2022. He obtained the B.Eng degree at the [Department of Electrical Engineering and Automation](http://hitee.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/). He was selected as the HKPFS awardee (TOP 162 at Hong Kong in 2018) during his PhD, and he was also selected as the TOP-20 annual outstanding graduate of HIT.
 
 His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
 
-In terms of service, he has been nominated by the IEEE Robotics and Automation Society (IEEE RAS) to serve as the program session chair and serves as the program commitee member of the two international flagship robotic conferences: IEEE International Conference on Robotics and Automation (ICRA) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). He also serves as the reviewers of more than 20 kinds of international conferences such as CVPR and ECCV, and more than 10 kinds of international journals such as IJCV and TPAMI.
+In terms of service, he has been nominated by the [IEEE Robotics and Automation Society (IEEE RAS)](http://www.ieee-ras.org/) to serve as the program session chair and serve as the program commitee member of the two international flagship robotic conferences: [IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings) and [IEEE/RSJ International Conference/Workshop on Intelligent Robots and Systems (IROS)](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings). He also serves as the reviewers of more than 20 kinds of international conferences such as [CVPR](https://cvpr2023.thecvf.com/) and [ECCV](https://link.springer.com/conference/eccv), and more than 10 kinds of international journals such as [IJCV](https://www.springer.com/journal/11263) and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 
 You can find his developed open-sourced project on his [Github Project Page](https://github.com/KangchengLiu).
+
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
 
 Selected Representative Publications
 ======
 
-**Kangcheng Liu**. <font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font>  International Journal of Computer Vision (IJCV), 2022. 
+**Kangcheng Liu**. <font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font> [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263,) 2022, IF in 2021: 13.369. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>  IEEE Transactions on Cybernetics (T-CYB), March 2022. 
+**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen. <font color='Navy'> [FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding.](https://ieeexplore.ieee.org/abstract/document/9756643/) </font>  [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen. <font color='Navy'> FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font> 2021 38th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen. <font color='Navy'> [FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling.](https://ieeexplore.ieee.org/abstract/document/9561496) </font> [2021 38th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9561496">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception. </font> 2022 39th IEEE International Conference on Robotics and Automation (ICRA). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. <font color='Navy'> [WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding.](https://ieeexplore.ieee.org/abstract/document/9811959) </font> [2022 39th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
-**Kangcheng Liu**, Yuzhi Zhao, Qiang Nie, and Ben M. Chen. <font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination. </font> European Conference on Computer Vision (ECCV) 2022. <font color='Red'> </font> 
+**Kangcheng Liu**, Yuzhi Zhao, Qiang Nie, and Ben M. Chen. <font color='Navy'> [Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination.](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_3) </font> [European Conference on Computer Vision (ECCV) 2022.](https://link.springer.com/conference/eccv) <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19815-1_3"> ECCV Springer Book </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -68,32 +69,32 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Code</a></span>
 
-**Kangcheng Liu**. <font color='Navy'> Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness: From System and Database Constructions to Real-Site Inspections. </font> ACM International Conference on Multimedia (ACM MM) 2022. <font color='Red'> </font> 
+**Kangcheng Liu**. <font color='Navy'> [Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness: From System and Database Constructions to Real-Site Inspections.](https://dl.acm.org/doi/abs/10.1145/3503161.3548304) </font> [ACM International Conference on Multimedia (ACM MM) 2022.](https://dl.acm.org/conference/mm) <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548304"> ACM Digital Library </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets</a></span>
 
 
-**Kangcheng Liu** and Ben M. Chen. <font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font> IEEE Transactions on Industrial Electronics (TIE), 2022. <font color='Red'> </font> 
+**Kangcheng Liu** and Ben M. Chen. <font color='Navy'> [Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections.](https://ieeexplore.ieee.org/abstract/document/9900135) </font> [IEEE Transactions on Industrial Electronics (TIE),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 2022. <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery. </font> IEEE Transactions on Power Systems (TPS), May 2018 <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. <font color='Navy'> [Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery.](https://ieeexplore.ieee.org/abstract/document/8064700) </font> [IEEE Transactions on Power Systems (TPS),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) May 2018 <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Code</a></span>
 
-**Kangcheng Liu**, Xiaodong Han, and Ben M. Chen. <font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.</font> 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), <font color='Red'> (Oral) </font>
+**Kangcheng Liu**, Xiaodong Han, and Ben M. Chen. <font color='Navy'> [Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections.](https://ieeexplore.ieee.org/document/8961534) </font> [2019 IEEE International Conference on Robotics and Biomimetics (ROBIO),](https://ieeexplore.ieee.org/xpl/conhome/1000856/all-proceedings) <font color='Red'> (Oral) </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
   
-**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).]((https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings)) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
