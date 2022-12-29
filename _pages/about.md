@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Research Fellow and Senior Robotics Engineer. <br>
-3D Vision and Robotics, Nanyang Technological University. <br>
-Doctor of Philosophy, The Chinese University of Hong Kong. <br>
+3D Vision and Robotics, [Nanyang Technological University.](https://www.ntu.edu.sg/) <br>
+Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China --> 
 
@@ -55,7 +55,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. [<font color='Navy'> WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding.font>](https://ieeexplore.ieee.org/abstract/document/9811959) </ [2022 39th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. [<font color='Navy'> WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding.<font>](https://ieeexplore.ieee.org/abstract/document/9811959) </ [2022 39th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
