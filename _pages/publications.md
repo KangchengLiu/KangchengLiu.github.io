@@ -37,7 +37,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
 
-**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen. [<font color='Navy'> WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding.<font>](https://ieeexplore.ieee.org/abstract/document/9811959) </ [2022 39th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen.  [<font color='Navy'>WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding. </font>](https://ieeexplore.ieee.org/abstract/document/9811959) [2021 38th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
