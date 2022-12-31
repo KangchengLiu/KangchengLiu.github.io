@@ -27,19 +27,19 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Re
 =======
 Kangcheng Liu received his Ph.D. degree from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK) in May 2022. He obtained the B.Eng degree at the [Department of Electrical Engineering and Automation](http://hitee.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/). He was selected as the HKPFS awardee (TOP 162 at Hong Kong in 2018) during his PhD, and he was also selected as the TOP-20 annual outstanding graduate of HIT.
 
-His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. 
+His first-author works in terms of 3D computer vision and robotics are widely published in international flagship conferences and journals. <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
 
 In terms of his service, he has been nominated by the [IEEE Robotics and Automation Society (IEEE RAS)](http://www.ieee-ras.org/) to serve as the program session chair and serve as the program commitee member of the two international flagship robotic conferences: [IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings) and [IEEE/RSJ International Conferences and Workshops on Intelligent Robots and Systems (IROS)](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings). He also serves as the reviewers of more than 20 kinds of international conferences such as [CVPR](https://cvpr2023.thecvf.com/) and [ECCV](https://link.springer.com/conference/eccv), and more than 10 kinds of international journals such as [IJCV](https://www.springer.com/journal/11263) and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 
 You can find his developed open-sourced project on his [Github Project Page](https://github.com/KangchengLiu).
 
-<!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
-<!-- https://link.springer.com/article/10.1007/s11263-022-01740-3 -->
+
+
 
 Selected Representative Publications
 ======
 
-**Kangcheng Liu**. <font color='Navy'> [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) </font> [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263,) 2022, IF in 2021: 13.369. 
+**Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263,) 2022, IF in 2021: 13.369. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
