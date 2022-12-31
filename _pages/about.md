@@ -34,12 +34,12 @@ In terms of his service, he has been nominated by the [IEEE Robotics and Automat
 You can find his developed open-sourced project on his [Github Project Page](https://github.com/KangchengLiu).
 
 <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
-
+<!-- https://link.springer.com/article/10.1007/s11263-022-01740-3 -->
 
 Selected Representative Publications
 ======
 
-**Kangcheng Liu**. <font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font> [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263,) 2022, IF in 2021: 13.369. 
+**Kangcheng Liu**. <font color='Navy'> [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging. </font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) </font> [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263,) 2022, IF in 2021: 13.369. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
 
