@@ -23,19 +23,19 @@ Selected Publications
 
 **Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding.</font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font>](https://ieeexplore.ieee.org/abstract/document/9561496) [2021 38th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9561496">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
 
 **Kangcheng Liu**, Yuzhi Zhao, and Ben M. Chen.  [<font color='Navy'>WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding. </font>](https://ieeexplore.ieee.org/abstract/document/9811959) [2021 38th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -49,7 +49,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> PDF </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Codes</a></span>
 
 **Kangcheng Liu**. [<font color='Navy'> Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness: From System and Database Constructions to Real-Site Inspections. </font>](https://dl.acm.org/doi/abs/10.1145/3503161.3548304) [ACM International Conference on Multimedia (ACM MM) 2022.](https://dl.acm.org/conference/mm) <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -67,7 +67,7 @@ Selected Publications
 **Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. [<font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery.</font>](https://ieeexplore.ieee.org/abstract/document/8064700)  [IEEE Transactions on Power Systems (TPS),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) May 2018 <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Codes</a></span>
 
 **Kangcheng Liu**, Xiaodong Han, and Ben M. Chen. [<font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections. </font>](https://ieeexplore.ieee.org/document/8961534) [2019 IEEE International Conference on Robotics and Biomimetics (ROBIO),](https://ieeexplore.ieee.org/xpl/conhome/1000856/all-proceedings) <font color='Red'> (Oral) </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
