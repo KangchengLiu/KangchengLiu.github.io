@@ -41,7 +41,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9811959"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/RM3D">Code</a></span>
+    <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
 **Kangcheng Liu**, Yuzhi Zhao, Qiang Nie, and Ben M. Chen. [<font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination.</font>](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_3) [European Conference on Computer Vision (ECCV) 2022.](https://link.springer.com/conference/eccv) <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
