@@ -14,7 +14,9 @@ Postgraduate Tutorial, Robotic Localization and Scene Understanding: Methodology
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, LiDAR-based SLAM systems. <br /> <br />
 
-MSc Student Thesis Postdoctoral Project and Thesis Mentor, Robotics Manipulation: Simulation and Experiments <br /> <br />
+MSc Student Thesis Postdoctoral Project and Thesis Mentor, Robotics Manipulation: Simulation and Experiments. <br /> <br />
+
+MSc Student Thesis Postdoctoral Project and Thesis Mentor, Outdoor Visual  and LiDAR-based Odometry for loclaization and mapping, and Long-term LiDAR-based Loop Closure and Relocalization. <br /> <br />
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, Medical Image Segmentation for the CVC-ClinicDB Benchmark. <br /> <br />
 
