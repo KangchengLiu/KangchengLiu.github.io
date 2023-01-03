@@ -39,7 +39,7 @@ You can find his developed open-sourced project on his [Github Project Page](htt
 Selected Representative Publications
 ======
 
-**Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369. 
+**Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369. (30 Pages.)
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
@@ -95,7 +95,7 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
   
-**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. <font color='Navy'> D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>] [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).]((https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings)) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. <font color='Navy'> D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>] [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).]((https://ieeexplore.ieee.org/document/9981388)) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
