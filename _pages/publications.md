@@ -76,7 +76,7 @@ Selected Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
   
-**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. [<font color='Navy'>  D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>](https://ieeexplore.ieee.org/document/9981388)] [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. [<font color='Navy'>  D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>](https://ieeexplore.ieee.org/document/9981388) [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
@@ -118,17 +118,20 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
 Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
 
 Working experience before Ph.D.
-<!-- ======
 
-* Summer 2017: Research Assistant, Chinese Academy of Science, Instutute of Automation.
-  
-  * Duties included: Image retrival, Correlation Filter based Object Tracking
-  * Finshed a project about robot and UAV collaborated visiual tracking -->
 
 * Summer 2016: Research Assistant
   * Harbin Institute of Techinology, Robotics Institute
-  * Duties included: Visual servoing for the robotics manipulations, Designing of adaptive control and sliding mode control for the estimation the unknown parameters of robot manipulator based on the visual depth information online.  
-  
+  * Duties included: 
+
+  * Visual servoing for the robotics manipulations.
+
+  * Designing of adaptive control and sliding mode control for the estimation the unknown parameters of robot manipulator based on the visual depth information online.
+
+  * Depth Estimation for the robotics manipulations.
+
+  * Motion Planning and Collision Aviodance for the robotics manipulations.
+
  * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation.
 
 * Fall 2015: Research Assistant
