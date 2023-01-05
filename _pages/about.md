@@ -70,7 +70,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Codes</a></span>
 
-**Kangcheng Liu**. [<font color='Navy'> Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness: From System and Database Constructions to Real-Site Inspections. </font>](https://dl.acm.org/doi/abs/10.1145/3503161.3548304) [ACM International Conference on Multimedia (ACM MM) 2022.](https://dl.acm.org/conference/mm) <font color='Red'> (Oral) </font>
+**Kangcheng Liu**. [<font color='Navy'> Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness: From System and Database Constructions to Real-Site Inspections. </font>](https://dl.acm.org/doi/abs/10.1145/3503161.3548304) [ACM International Conference on Multimedia (ACM MM) 2022.](https://dl.acm.org/conference/mm) <font color='Red'> (Oral). </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548304"> ACM Digital Library </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
