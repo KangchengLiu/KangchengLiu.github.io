@@ -9,7 +9,7 @@ author_profile: true
 <!-- NTU  NTU -->
 
 **2022-2023 Academic Year**: <br /> <br />
-  
+=======  
 Postgraduate Tutorial, <b>Robotic Localization and Scene Understanding: Methodology and Applications.<b> <br /> <br />
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b> LiDAR-based SLAM systems.<b> <br /> <br />
@@ -53,7 +53,6 @@ Teaching Assistant, 2020 Fall, Chinese University of Hong Kong, <b>MAEG 5725 Con
 
 Teaching Assistant, 2020 Spring, Chinese University of Hong Kong, <b> Advanced Robotics. </b> (Postgraduate) <br /> <br />
 
-<br /> <br />
 
 **2019-2020 Academic Year**: <br /> <br />
   

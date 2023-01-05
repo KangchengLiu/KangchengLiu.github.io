@@ -117,10 +117,10 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
   
 Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022.
 
-Working experience before Ph.D.
+**Working experience before Ph.D.:**
 
 
-* Summer 2016: Research Assistant
+* Summer-Fall 2016: Research Assistant
   * Harbin Institute of Techinology, Robotics Institute
   * Duties included: 
 
@@ -132,7 +132,7 @@ Working experience before Ph.D.
 
   * Motion Planning and Collision Aviodance for the robotics manipulations.
 
- * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation.
+    <!-- * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation. -->
 
 * Fall 2015: Research Assistant
   * Harbin Institute of Techinology
