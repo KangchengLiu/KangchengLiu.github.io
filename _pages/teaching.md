@@ -57,7 +57,7 @@ Teaching Assistant, 2020 Spring, Chinese University of Hong Kong, <b> Advanced R
 
 **2019-2020 Academic Year**: <br /> <br />
   
-Postgraduate Project Tutorial, UAV State Esitimation, Motion Estimation, and Object Detection when flying through the moving pillars. <br /> <br />
+Postgraduate Project Tutorial, UAV State Esitimation, Motion Estimation, and Object Detection when Flying through the Moving Pillars. <br /> <br />
   
 Postgraduate Project Tutorial, UAV 3D Reconstruction of the Environment. <br /> <br />
   
