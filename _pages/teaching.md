@@ -9,7 +9,7 @@ author_profile: true
 <!-- NTU  NTU -->
 
 **2022-2023 Academic Year**: <br /> <br />
-=======  
+
 Postgraduate Tutorial, <b>Robotic Localization and Scene Understanding: Methodology and Applications.<b> <br /> <br />
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b> LiDAR-based SLAM systems.<b> <br /> <br />
