@@ -152,9 +152,9 @@ Awards
 ======
 
 
-**Kangcheng Liu**, China National Robot Competition, Third Prize.
+**Kangcheng Liu**, China National Robot Competition, Third Prize. 2017.
 
-**Kangcheng Liu**, China National Mathematics Competition, First Prize.
+**Kangcheng Liu**, China National Mathematics Competition, First Prize. 2017.
 
 **Kangcheng Liu**,  Hong Kong PhD Fellowship (HKPFS) Awardee. 2018.
 
