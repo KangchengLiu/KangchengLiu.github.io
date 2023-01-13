@@ -14,8 +14,6 @@ Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.ed
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China --> 
 
-![Words](../images/kcliu_keywords-v1.png) 
-
 **Research Interests**
 =======
 Dr. Liu's research interests lie within the intersection of 3D Vision and Robotics. 
@@ -101,6 +99,12 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+
+
+Research Highlights
+======
+
+![Words](../images/kcliu_keywords-v1.png) 
 
 
 <!-- **Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
