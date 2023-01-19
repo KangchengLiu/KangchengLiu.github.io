@@ -16,7 +16,7 @@ MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b> LiDAR-based SLAM 
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b>Robotics Manipulation: Simulations and Experiments.<b> <br /> <br />
 
-MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b>Outdoor Visual and LiDAR-based Odometry for loclaization and mapping, and Long-term LiDAR-based Loop Closure and Relocalization.<b> <br /> <br />
+MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b>Outdoor Visual and LiDAR-based Odometry for Localization and mapping, and Long-term LiDAR-based Loop Closure and Relocalization. <b> <br /> <br />
 
 MSc Student Thesis Postdoctoral Project and Thesis Mentor, <b>Medical Image Segmentation for the CVC-ClinicDB Benchmark.<b> <br /> <br />
 

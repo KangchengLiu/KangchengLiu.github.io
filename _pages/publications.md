@@ -22,6 +22,8 @@ Selected Publications
 ======
 
 **Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369, Pages 1-30.
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://link.springer.com/article/10.1007/s11263-022-01740-3">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
@@ -140,6 +142,19 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
 <!-- Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. -->
 
 **Working experience before Ph.D.:**
+
+
+* Summer-Fall 2017: Research Assistant
+  * Institute of Automation, Chinese Academic of Science.
+  * Duties included: 
+
+  * Deploy the Real-time Object Detection Algorithms.
+
+  * The Remote Sensing Image Retrieval.
+
+  * The Correlation Filter-Based Object Tracking.
+
+  * Underwater Image Processing with Conditional GAN-based Enhancement.
 
 
 * Summer-Fall 2016: Research Assistant
