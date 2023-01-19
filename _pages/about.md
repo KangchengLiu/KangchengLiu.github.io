@@ -18,7 +18,7 @@ Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.ed
 =======
 Dr. Liu's research interests lie within the intersection of 3D Vision and Robotics. 
 
-He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Vision/LiDAR-based Localization, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, and Robotics Scene Understanding. 
+He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Vision/LiDAR-based Localization, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, and Robotics Scene Understanding. 
 
 
 **Short Introduction**
