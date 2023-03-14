@@ -6,21 +6,21 @@ author_profile: true
 ---
 
 <br /> <br />
-<!-- NTU  NTU -->\
+<!-- NTU  NTU -->
 
 **Courses**: <br /> <br />
 
-Engineering Optimizations. <b> <br /> <br />
+i. Engineering Optimizations. <b> <br /> <br />
 
-Advanced Robotics. <b> <br /> <br />
+ii. Advanced Robotics. <b> <br /> <br />
 
-Modern Computer Graphics. <b> <br /> <br />
+iii. Modern Computer Graphics. <b> <br /> <br />
 
-Introduction to Reinforcement Learning.  <b> <br /> <br />
+iv. Introduction to Reinforcement Learning.  <b> <br /> <br />
 
-Methodology and Computation for Safe Autonomy.  <b> <br /> <br />
+v. Methodology and Computation for Safe Autonomy.  <b> <br /> <br />
 
-3D Vision and Robotics.   <b> <br /> <br />
+vi. 3D Vision and Robotics.   <b> <br /> <br />
 
 
 **2022-2023 Academic Year**: <br /> <br /> 
