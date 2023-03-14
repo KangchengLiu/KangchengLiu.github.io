@@ -41,18 +41,20 @@ Selected Representative Publications
 ======
 
 **Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369, Pages 1-30.
+
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
-**Kangcheng Liu**, Cao Muqing.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2023. 
+**Kangcheng Liu**, Cao Muqing.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516), March 2023. 
+
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
 
-**Kangcheng Liu**, Lu Shijian.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [CVPR 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), 2023. 
+**Kangcheng Liu**, Lu Shijian.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)  [CVPR 2023]. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast">Codes of This Work and the Compared Works.</a></span>    
+    <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
 
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
@@ -60,6 +62,7 @@ Selected Representative Publications
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
+
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling. (FG-Net_v1) </font>](https://arxiv.org/abs/2012.09439)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">

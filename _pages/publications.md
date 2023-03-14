@@ -21,6 +21,18 @@ You can find his full publication list on his [Google Scholar Profile](https://s
 Selected Publications
 ======
 
+**Kangcheng Liu**, Cao Muqing.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516), March 2023. 
+
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+
+**Kangcheng Liu**, Lu Shijian.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)  [CVPR 2023]. 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
+
+
 **Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369, Pages 1-30.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://link.springer.com/article/10.1007/s11263-022-01740-3">IEEE Xplore </a></span><br>
