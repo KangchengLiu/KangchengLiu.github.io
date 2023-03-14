@@ -6,9 +6,24 @@ author_profile: true
 ---
 
 <br /> <br />
-<!-- NTU  NTU -->
+<!-- NTU  NTU -->\
 
-**2022-2023 Academic Year**: <br /> <br />
+**Courses**: <br /> <br />
+
+Engineering Optimizations. <b> <br /> <br />
+
+Advanced Robotics. <b> <br /> <br />
+
+Modern Computer Graphics. <b> <br /> <br />
+
+Introduction to Reinforcement Learning.  <b> <br /> <br />
+
+Methodology and Computation for Safe Autonomy.  <b> <br /> <br />
+
+3D Vision and Robotics.   <b> <br /> <br />
+
+
+**2022-2023 Academic Year**: <br /> <br /> 
 
 Postgraduate Tutorial, <b>Robotic Localization and Scene Understanding: Methodology and Applications.<b> <br /> <br />
 
