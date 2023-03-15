@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -7,21 +7,21 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} -->
 
-Education
+<!-- Education
 ======
 * 2018.09 - 2022.06 Ph.D candidate in Robotics and Automation, **Chinese University of Hong Kong, Hong Kong**. <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Ben M. Chen](http://www.mae.cuhk.edu.hk/~bmchen/), GPA: 3.9/4.3) 
 * 2014.09 - 2018.06 B.Eng. in Electrical Engineering and Automation, **Harbin Intitute Technology, China**. <br>
-&ensp;&ensp;&ensp;(GPA: 4.0/4.0, rank 1 / 102) 
+&ensp;&ensp;&ensp;(GPA: 4.0/4.0, rank 1 / 102)  -->
 
 
-Publication
+<!-- Publication
 ======
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding </font>. 
-IEEE Transactions on Cybernetics (Revised).
+IEEE Transactions on Cybernetics.
 
 **Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, Huihui Song. <font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery </font>. IEEE Transactions on Power Systems, May 2018.
 
@@ -29,12 +29,12 @@ IEEE Transactions on Cybernetics (Revised).
 2021 38th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>.
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, Ben M. Chen. <font color='Navy'> WeakLabel3D-Net: A Complete Framework for Weakly Supervised Multi-Tasks Real-Scene LiDAR Perception   </font>. 
-2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>.
+2022 39th IEEE Conference on Robotics and Automation (ICRA) <font color='Red'> (Oral) </font>. -->
 
 <!-- **Kangcheng Liu**, Zhi Gao, Ben M. Chen. <font color='Navy'> WS3D: Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination </font>. 2022 IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR). <font color='Red'> (Under Review) </font>. -->
 
 
-**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
+<!-- **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Classification in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
 
 **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Defects Segmentation and Dectection in Inspection: A Survey and Comparison. 2022 International Conference on Control and Automation (ICCA), 2022.
 
@@ -42,7 +42,7 @@ IEEE Transactions on Cybernetics (Revised).
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (Oral) (WACV'2021)
 
-Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing (TIP)
+Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing (TIP) -->
 
 
 <!-- Project Video Demos
