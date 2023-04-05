@@ -44,7 +44,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
-**Kangcheng Liu**, Cao Muqing.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/document/10092189)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516), March 2023. 
+**Kangcheng Liu**, Cao Muqing.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/document/10092189)  [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/document/10092189), March 2023. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
