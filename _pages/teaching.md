@@ -10,9 +10,9 @@ author_profile: true
 
 **Courses**: <br /> <br />
 
-i. Engineering Optimizations. <b> <br /> <br />
+i. Advanced Robotics. <b> <br /> <br />
 
-ii. Advanced Robotics. <b> <br /> <br />
+ii. Engineering Optimizations. <b> <br /> <br />
 
 iii. Modern Computer Graphics. <b> <br /> <br />
 

@@ -62,6 +62,19 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
 
 
+**Kangcheng Liu** and Ben M. Chen. [<font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font>](https://ieeexplore.ieee.org/abstract/document/9900135) [IEEE Transactions on Industrial Electronics (TIE),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 2022, , IF in 2021: 8.162. <font color='Red'> </font> 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
+
+**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. [<font color='Navy'>  D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>](https://ieeexplore.ieee.org/document/9981388) [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+
 **Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling. (FG-Net_v1) </font>](https://arxiv.org/abs/2012.09439)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), December 2020, IF in 2021: 19.118. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
@@ -102,11 +115,6 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets</a></span>
 
 
-**Kangcheng Liu** and Ben M. Chen. [<font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font>](https://ieeexplore.ieee.org/abstract/document/9900135) [IEEE Transactions on Industrial Electronics (TIE),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 2022, , IF in 2021: 8.162. <font color='Red'> </font> 
-    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
-    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
 **Kangcheng Liu**, Yanbin Qu, Hak-Man Kim, and Huihui Song. [<font color='Navy'> Avoiding frequency second dip in power unreserved control during wind power rotational speed recovery.</font>](https://ieeexplore.ieee.org/abstract/document/8064700)  [IEEE Transactions on Power Systems (TPS),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) May 2018, IF in 2021: 7.326. <font color='Red'> (TPS highly cited paper in the topic of control for power systems.) </font>.      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/8064700">IEEE Xplore</a></span><br>
@@ -120,12 +128,27 @@ Selected Representative Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
   
-**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. [<font color='Navy'>  D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>](https://ieeexplore.ieee.org/document/9981388) [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
+
+**Kangcheng Liu**, Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class Imbalanced Semantic Segmentation. 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
+<img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9907146"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
+    <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
+
+
+**Kangcheng Liu**, A robust and efficient lidar-inertial-visual fused simultaneous localization and mapping system with loop closure. 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
+<img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/abstract/document/9907651"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+    <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
+
+**Kangcheng Liu**, A Light-Weight LiDAR-Inertial SLAM System with High Efficiency and Loop Closure Detection Capacity. 2022 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2022. 
+<img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/document/9959555"> IEEE Xplore </a></span><br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/slam_resources">Codes of LiDAR-SLAM.</a></span>
+        <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/deep-learning-localization-mapping">Codes of Compared Works.</a></span>
 
 
 Research Highlights
