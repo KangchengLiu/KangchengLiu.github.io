@@ -142,7 +142,7 @@ Selected Publications
         <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/deep-learning-localization-mapping">Codes of Compared Works.</a></span>
 
-Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing. 
+Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. <font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. IEEE Transactions on Image Processing. 
 
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font color='Navy'> Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), (Oral) <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://openaccess.thecvf.com/content/WACV2021/html/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.html"> CVF Open Access </a></span><br>
