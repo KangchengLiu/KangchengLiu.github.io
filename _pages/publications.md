@@ -184,7 +184,7 @@ Working experience before Ph.D.:
 
 * Fall 2015: Research Assistant
   * Harbin Institute of Technology
-  * Duties included: Power  electronics, Buck/Boost circuit design, Digital signal processor-based control of the power inverter systems and power conversion systems, Stm32-based control of the complicated electric circuit.
+  * Duties included: Power  electronics; Buck/Boost circuit design; Digital signal processor-based control of the power inverter systems and power conversion systems; Stm32-based control of the complicated electric circuit.
   <!-- * Supervisor: Professor Huihui Song, Professor Qu Yanbin. -->
 
 <!-- **Journal**
