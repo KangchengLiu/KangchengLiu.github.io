@@ -152,8 +152,8 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
 <!-- Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. --> 
 
 
-**Working experience before Ph.D.:**
-
+Working experience before Ph.D.:
+======
 
 * Summer-Fall 2017: Research Assistant
   * Institute of Automation, Chinese Academic of Science.
@@ -161,30 +161,30 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
 
   * Deploy the Real-time Object Detection Algorithms.
 
-  * The Remote Sensing Image Retrieval.
-
   * The Correlation Filter-Based Object Tracking.
+
+  * The Remote Sensing Large-Scale Image Retrieval.
 
   * Underwater Image Processing with Conditional GAN-based Enhancement.
 
 
 * Summer-Fall 2016: Research Assistant
-  * Harbin Institute of Techinology, Robotics Institute
+  * Harbin Institute of Technology, Robotics Institute
   * Duties included: 
 
-  * Visual servoing for the robotics manipulations.
+  * Visual servoing for the robotic manipulation.
 
   * Designing of adaptive control and sliding mode control for the estimation the unknown parameters of robot manipulator based on the visual depth information online.
 
-  * Depth Estimation for the robotics manipulations.
+  * Depth Estimation for the robotic manipulation.
 
-  * Motion Planning and Collision Aviodance for the robotics manipulations.
+  * Motion Planning and Collision Aviodance for the robotic manipulations.
 
     <!-- * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation. -->
 
 * Fall 2015: Research Assistant
-  * Harbin Institute of Techinology
-  * Duties included: Power  Electronics, Buck/ Boost Circuit Design, Digital Signal Processor-based Control of the Power Inverter Systems, Stm32-based control of the complicated electric circuit.
+  * Harbin Institute of Technology
+  * Duties included: Power  Electronics, Buck/ Boost Circuit Design, Digital Signal Processor-based Control of the Power Inverter Systems and Power Conversion Systems, Stm32-Based Control of the Complicated Electric Circuit.
   <!-- * Supervisor: Professor Huihui Song, Professor Qu Yanbin. -->
 
 <!-- **Journal**
