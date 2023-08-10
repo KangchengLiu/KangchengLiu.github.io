@@ -142,19 +142,19 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
 
-**Kangcheng Liu**, and Ben M. Chen.  An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>. 
+**Kangcheng Liu**, and Ben M. Chen. [An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments](https://ieeexplore.ieee.org/document/9831831). 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>. 
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://ieeexplore.ieee.org/abstract/document/9831831"> IEEE Xplore </a></span><br>
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
 
-  **Kangcheng Liu**, and Ben M. Chen.  An Enhanced LiDAR Inertial Localization and Mapping System for Unmanned Ground Vehicles. 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
+  **Kangcheng Liu**, and Ben M. Chen. [An Enhanced LiDAR Inertial Localization and Mapping System for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/9831822). 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>.
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://ieeexplore.ieee.org/abstract/document/9831822"> IEEE Xplore </a></span><br>
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes.</a></span>
 
-**Kangcheng Liu**, A Light-Weight LiDAR-Inertial SLAM System with High Efficiency and Loop Closure Detection Capacity. 2022 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2022. 
+**Kangcheng Liu**, [A Light-Weight LiDAR-Inertial SLAM System with High Efficiency and Loop Closure Detection Capacity](https://ieeexplore.ieee.org/document/9959555). 2022 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2022. 
 <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9959555"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
