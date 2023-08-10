@@ -129,14 +129,14 @@ Selected Representative Publications
 
   
 
-**Kangcheng Liu**, Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class Imbalanced Semantic Segmentation. 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
+**Kangcheng Liu**, [Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class Imbalanced Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9907146). 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
 <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9907146"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://mycuhk-my.sharepoint.com/:u:/g/personal/1155113950_link_cuhk_edu_hk/EbbjuIxVfn9ErFsO4dx5ChoBZIfBhoqfPvEpSoy6BL-fiA?e=Ng9tWo">Codes.</a></span>
 
 
-**Kangcheng Liu**, A robust and efficient lidar-inertial-visual fused simultaneous localization and mapping system with loop closure. 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
+**Kangcheng Liu**, [A robust and efficient lidar-inertial-visual fused simultaneous localization and mapping system with loop closure](https://ieeexplore.ieee.org/document/9907651). 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
 <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9907651"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
