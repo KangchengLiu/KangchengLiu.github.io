@@ -174,17 +174,17 @@ Working experience before Ph.D.:
 
   * Visual servoing for the robotic manipulation.
 
-  * Designing of adaptive control and sliding mode control for the estimation the unknown parameters of robot manipulator based on the visual depth information online.
+  * Design of adaptive control and sliding mode control for the automated operations of robot manipulator based on the visual depth information with the real-time performance.
 
-  * Depth Estimation for the robotic manipulation.
+  * Depth estimation for the vision-based robot manipulation.
 
-  * Motion Planning and Collision Aviodance for the robotic manipulations.
+  * Motion planning and collision aviodance for the mobile robot manipulation.
 
-    <!-- * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation. -->
+    <!-- * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation. the estimation the unknown parameters of robotic manipulations --> 
 
 * Fall 2015: Research Assistant
   * Harbin Institute of Technology
-  * Duties included: Power  Electronics, Buck/ Boost Circuit Design, Digital Signal Processor-based Control of the Power Inverter Systems and Power Conversion Systems, Stm32-Based Control of the Complicated Electric Circuit.
+  * Duties included: Power  electronics, Buck/Boost circuit design, Digital signal processor-based control of the power inverter systems and power conversion systems, Stm32-based control of the complicated electric circuit.
   <!-- * Supervisor: Professor Huihui Song, Professor Qu Yanbin. -->
 
 <!-- **Journal**
