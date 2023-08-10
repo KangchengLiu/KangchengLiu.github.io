@@ -149,7 +149,9 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior">Codes and Datasets.</a></span>
   
-<!-- Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. --> 
+Muqing Cao, **Kangcheng Liu**, et al. Path Planning for Multiple Tethered Robots Using Topological Braids. Proceedings of Robotics: Science and Systems (RSS), 2023.
+
+<!-- Kun Cao Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. --> 
 
 
 Working experience before Ph.D.:
