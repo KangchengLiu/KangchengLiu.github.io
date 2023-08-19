@@ -116,17 +116,19 @@ Selected Publications
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes.</a></span>
 
-**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Classification. 2022 International Conference on Control and Automation (ICCA), 2022.
+  **Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. [Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Segmentation and Detection.](https://ieeexplore.ieee.org/document/9831925) 2022 International Conference on Control and Automation (ICCA), 2022.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Segmentation and Detection. 2022 International Conference on Control and Automation (ICCA), 2022.
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. [Datasets and Methods for Boosting Infrastructure Inspection: A Survey on Defect Classification](https://ieeexplore.ieee.org/document/9831922). 2022 International Conference on Control and Automation (ICCA), 2022.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
+
+
 
 
 **Kangcheng Liu**, [Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class Imbalanced Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9907146). 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
@@ -157,7 +159,7 @@ Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. <font
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior">Codes and Datasets.</a></span>
   
-Muqing Cao, Kun Cao, Shenghai Yuan, **Kangcheng Liu**, et al. Path Planning for Multiple Tethered Robots Using Topological Braids. Proceedings of Robotics: Science and Systems (RSS), 2023.
+Muqing Cao, Kun Cao, Shenghai Yuan, **Kangcheng Liu**, et al. [Path Planning for Multiple Tethered Robots Using Topological Braids](https://arxiv.org/abs/2305.00271). Proceedings of Robotics: Science and Systems (RSS), 2023.
 
 <!-- Kun Cao Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. --> 
 
