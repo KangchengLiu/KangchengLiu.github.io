@@ -54,7 +54,7 @@ MSc Student Thesis Project and Thesis Mentor, <b>LiDAR based Loop clusure of lar
   
 MSc Student Thesis Project and Thesis Mentor, <b>Deep Learning based glass defects detection and identification.<b> <br /> <br />
   
-MSc Student Thesis Project and Thesis Mentor, <b>Yolo based object detection and related deployment on the unmanned vehicles.<b> <br /> <br />
+MSc Student Thesis Project and Thesis Mentor, <b>Yolo-based object detection and related deployment on the unmanned vehicles.<b> <br /> <br />
   
 MSc Student Thesis Project and Thesis Mentor, <b>FG-Net-base 3D scene understanding and 3D object detections.<b> <br /> <br />
 
@@ -95,7 +95,7 @@ Postgraduate Project Tutorial, <b>UAV Landing on the Moving Platform.<b> <br /> 
   
 Teaching Assistant, 2019 Fall, Chinese University of Hong Kong, <b>MAEG 5725 Control and Industrial Automation. </b> (Postgraduate) <br /> <br />
   
-FYP Student Thesis Project and Thesis Mentor, <b>UAV Light Show in the Vicon Environment and related Simulations.<b> <br /> <br />
+FYP Student Thesis Project and Thesis Mentor, <b>UAV Light Show in the Vicon Environment and Related Simulations.<b> <br /> <br />
   
 FYP Student Thesis Project and Thesis Mentor, <b>UAV Caligraphy.<b> <br /> <br />
   
