@@ -154,7 +154,7 @@ Selected Representative Publications
   <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
   <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes.</a></span>
 
-**Kangcheng Liu**, [A Light-Weight LiDAR-Inertial SLAM System with High Efficiency and Loop Closure Detection Capacity](https://ieeexplore.ieee.org/document/9959555). 2022 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2022. 
+**Kangcheng Liu**, [A Light-Weight LiDAR-Inertial SLAM System with High Efficiency and Loop Closure Detection Capacity](https://ieeexplore.ieee.org/document/9959555). 2022 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2022 <font color='Red'> (Oral) </font>. 
 <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/document/9959555"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
