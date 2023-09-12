@@ -20,6 +20,10 @@ Dr. Liu's research interests lie within the intersection of 3D Vision and Roboti
 
 He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Vision/LiDAR-based Localization, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, and Robotics Scene Understanding. 
 
+**Recruitment**
+=======
+<font color='Navy'> I am recruiting PhD student starting from spring 2024. Contact me if you are interested.  </font>
+
 
 **Short Introduction**
 =======
