@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Kangcheng Liu"
+title: "Prof. Kangcheng Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
