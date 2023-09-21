@@ -7,22 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Senior Robotics Engineer and Research Fellow<br>
-3D Vision and Robotics, [Nanyang Technological University.](https://www.ntu.edu.sg/) <br>
+Assistant Professor, HKUST (GZ)<br>
+Robotic systems and 3D Vision<br>
+Senior Robotics Engineer and Research Fellow, [Nanyang Technological University.](https://www.ntu.edu.sg/) <br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China --> 
 
 **Research Interests**
 =======
-Dr. Liu's research interests lie within the intersection of 3D Vision and Robotics. 
+Dr. Liu's research interests lie within the intersection of Robotic systems and 3D Vision. 
 
-He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Vision/LiDAR-based Localization, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, and Robotics Scene Understanding. 
+He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Vision/LiDAR-based Localization, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, Multi-axis Robot 3D Printing, and Robotics Scene Understanding. 
 
 **Recruitment**
 =======
-<font color='Navy'> I am recruiting and supervising Postdocs and PhD students with core research areas in robotics and automation, 3D vision, and manufacturing automation. The starting date can be spring 2024 or Fall 2024. Multiple positions are available but quota is competitive and limited. But once offered, the salary will be highly competitive. Contact me if you are interested. Pls attached you CV and transcript in your application email.  </font>
+<font color='Navy'> I am recruiting and supervising Postdocs and PhD students with core research areas in robotics and automation, 3D vision, and manufacturing automation. The starting date can be spring 2024 or Fall 2024. Multiple positions are available but quota is competitive and limited. But once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
 
 =======
 
