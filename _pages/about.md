@@ -16,13 +16,13 @@ Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.ed
 
 **Research Interests**
 =======
-Dr. Liu's research interests lie within the intersection of Robotic systems and 3D Vision. 
+Dr. Liu's research interests lie within the intersection of robotic systems and 3D vision. 
 
 He specialized in Robotics and Automation, Robotics Localization and Mapping, Representation Learning, Vision/LiDAR-based Localization, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, Multi-axis Robot 3D Printing, and Robotics Scene Understanding. 
 
 **Recruitment**
 =======
-<font color='Navy'> I am recruiting and supervising Postdocs, PhD students, and RAs with core research areas in robotics and automation, 3D vision, and manufacturing automation. The starting date can be spring 2024 or Fall 2024. Multiple positions are available but quota is competitive and limited. But once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
+<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, and RAs with core research areas in robotics and automation, 3D vision, and manufacturing automation. The starting date can be spring 2024 or Fall 2024. Multiple positions are available but quota is competitive and limited. But once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
 
 =======
 
