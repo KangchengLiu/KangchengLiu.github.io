@@ -22,7 +22,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Re
 
 **Recruitment**
 =======
-<font color='Navy'> I am recruiting and supervising Postdocs and PhD students with core research areas in robotics and automation, 3D vision, and manufacturing automation. The starting date can be spring 2024 or Fall 2024. Multiple positions are available but quota is competitive and limited. But once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
+<font color='Navy'> I am recruiting and supervising Postdocs, PhD students, and RAs with core research areas in robotics and automation, 3D vision, and manufacturing automation. The starting date can be spring 2024 or Fall 2024. Multiple positions are available but quota is competitive and limited. But once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
 
 =======
 
