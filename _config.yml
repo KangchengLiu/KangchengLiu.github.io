@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Homepage of Dr. Kangcheng Liu (刘康丞)
+# Homepage of Prof. Kangcheng Liu (刘康丞)
 # Site Settings
 locale                   : "en-US"
 title                    : "Prof. Kangcheng Liu (刘康丞)"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author and 
 author: 
-  name             : "Dr. Kangcheng Liu"
+  name             : "Prof. Kangcheng Liu"
   avatar           : "kcliu.jpg"
   bio              : "3D Vision and Robotics. Delta@NTU, Nanyang Technological University. The Chinese University of Hong Kong. Harbin Institute of Technology."
   location         : "Singapore, Hong Kong SAR"
