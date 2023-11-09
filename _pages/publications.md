@@ -167,7 +167,7 @@ Muqing Cao, Kun Cao, Shenghai Yuan, **Kangcheng Liu**, et al. [Path Planning for
 Working experience before Ph.D.:
 ======
 
-* Summer-Fall 2017: Research Assistant
+* Summer-Fall 2017: Senior Research Engineer
   * Institute of Automation, Chinese Academic of Science.
   * Duties included: 
 
@@ -180,7 +180,7 @@ Working experience before Ph.D.:
   * Underwater Image Processing with Conditional GAN-based Enhancement.
 
 
-* Summer-Fall 2016: Research Assistant
+* Summer-Fall 2016: Senior Research Engineer
   * Harbin Institute of Technology, Robotics Institute
   * Duties included: 
 
@@ -194,7 +194,7 @@ Working experience before Ph.D.:
 
     <!-- * Safe-corridor-based autonomous motion planning for collision avoidance during the robot manipulation. the estimation the unknown parameters of robotic manipulations --> 
 
-* Fall 2015: Research Assistant
+* Fall 2015: Senior Research Engineer
   * Harbin Institute of Technology
   * Duties included: Power  electronics; Buck/Boost circuit design; Digital signal processor-based control of the power inverter systems and power conversion systems; Stm32-based control of the complicated electric circuit.
   <!-- * Supervisor: Professor Huihui Song, Professor Qu Yanbin. -->
