@@ -27,6 +27,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Vi
 =======
 
 
+
 **Short Introduction**
 =======
 Kangcheng Liu received his Ph.D. degree from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK) with honors. He obtained the B.Eng degree at the [Department of Electrical Engineering and Automation](http://hitee.hit.edu.cn/) [Harbin Institute of Technology](http://www.hit.edu.cn/) with honors, and with a minor in mechatronic engineering. He was selected as the HKPFS awardee (TOP 162 at Hong Kong in 2018) during his PhD, and he was also elected as the TOP-20 annual outstanding graduate of HIT.
