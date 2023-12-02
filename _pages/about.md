@@ -14,7 +14,6 @@ Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.ed
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor -->  
 
-
 **Research Interests**
 =======
 Dr. Liu's research interests lie within the intersection of robotic systems and 3D vision. 
