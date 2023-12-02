@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 Robotic systems and 3D Vision<br>
-Principal Investigator (PI), PhD Supervisor, Associate Scientist, HKUST and HKUST (GZ) <br>
+Principal Investigator (PI), PhD Supervisor, Junior Professor, HKUST and HKUST (GZ) <br>
 Senior Robotics Engineer and Research Fellow, [Nanyang Technological University.](https://www.ntu.edu.sg/) <br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
 
-<!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor -->  
+<!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor Associate Scientist, -->  
 
 **Research Interests**
 =======
