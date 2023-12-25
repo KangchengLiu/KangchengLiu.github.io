@@ -91,7 +91,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
 
-**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized 3D Self-supervised Learning Framework via Prompted Foreground-Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388). 
+**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized 3D Self-supervised Learning Framework via Prompted Foreground-Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388) 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes</a></span>   
 

@@ -38,7 +38,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
 
-**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning. </font>](https://arxiv.org/abs/2312.00663). 
+**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning. </font>](https://arxiv.org/abs/2312.00663) 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://drive.google.com/drive/folders/1M58V-PtR8DBEwD296zJkNg_m2qq-MTAP"> Codes</a></span>    
 
@@ -81,7 +81,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized 3D Self-supervised Learning Framework via Prompted Foreground-Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388). 
+**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized 3D Self-supervised Learning Framework via Prompted Foreground-Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388)
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes</a></span>   
 
