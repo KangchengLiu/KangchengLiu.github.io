@@ -34,7 +34,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
-**Kangcheng Liu**, Lu Shijian.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388)  [IEEE/CVF International Computer Vision and Pattern Recognition Conference (CVPR), 2023](https://cvpr2023.thecvf.com/). 
+**Kangcheng Liu**, Lu Shijian.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388)  [IEEE/CVF International Computer Vision and Pattern Recognition Conference (CVPR), 2023](https://cvpr2023.thecvf.com/).  <br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
 
@@ -148,7 +148,9 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
-
+**Kangcheng Liu**, **Guidong Yang**, and Ben M. Chen. [<font color='Navy'> Datasets and processing methods for boosting visual inspection of civil infrastructure: A comprehensive review and algorithm comparison for crack classification, segmentation, and detection. </font>]. Construction and Building Materials, 2022. <br>
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
 
 **Kangcheng Liu**, [<font color='Navy'> Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class Imbalanced Semantic Segmentation. </font>](https://ieeexplore.ieee.org/abstract/document/9907146). 2022 IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER), 2022. 
