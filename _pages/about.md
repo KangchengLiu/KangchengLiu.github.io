@@ -22,12 +22,6 @@ Dr. Liu's research interests lie within the intersection of robotic systems and 
 
 He specialized in Robotics and Automation, Robotics Localization and Mapping, Vision/LiDAR-based Localization, Representation Learning, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, Multi-axis Robot 3D Printing, Robot Machining, and Onboard Robotics Scene Understanding. 
 
-**Recruitment**
-=======
-<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in robotics and automation, 3D vision, and manufacturing automation. Multiple positions are available but quota is competitive and limited. However, once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
-
-=======
-
 
 
 **Short Introduction**
@@ -185,11 +179,18 @@ Selected Representative Publications
 
 **Kangcheng Liu**, [<font color='Navy'> A LiDAR-Inertial-Visual SLAM System with Loop Detection </font>](https://arxiv.org/abs/2301.05604). Robotics: Science and Systems (RSS), Workshops, 2021 <font color='Red'> (Oral) </font>. 
 
-**Kangcheng Liu**, [<font color='Navy'> Learning-Based Defect Recognitions for Autonomous UAV Inspections </font>](https://arxiv.org/abs/2302.06093). Robotics: Science and Systems (RSS), Workshops, 2021 <font color='Red'> (Oral) </font>. 
+**Kangcheng Liu**, [<font color='Navy'> Learning-Based Defect Recognitions for Autonomous UAV Inspections </font>](https://arxiv.org/abs/2302.06093). Robotics: Science and Systems (RSS), Workshops, 2020 <font color='Red'> (Oral) </font>. 
 
-**Kangcheng Liu**, [<font color='Navy'> An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping </font>](https://arxiv.org/abs/2212.14209). International Conference on Robotics and Automation (ICRA), Workshops, 2021 <font color='Red'> (Oral) </font>. 
+**Kangcheng Liu**, [<font color='Navy'> An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping </font>](https://arxiv.org/abs/2212.14209). International Conference on Robotics and Automation (ICRA), Workshops, 2019 <font color='Red'> (Oral) </font>. 
 
-**Kangcheng Liu**, [<font color='Navy'> A Light-Weight LiDAR-Inertial SLAM System with Loop Closing </font>](https://arxiv.org/abs/2212.05743). International Conference on Robotics and Automation (ICRA), Workshops, 2021 <font color='Red'> (Oral) </font>. 
+**Kangcheng Liu**, [<font color='Navy'> A Light-Weight LiDAR-Inertial SLAM System with Loop Closing </font>](https://arxiv.org/abs/2212.05743). International Conference on Robotics and Automation (ICRA), Workshops, 2020 <font color='Red'> (Oral) </font>. 
+
+
+**Recruitment**
+=======
+<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in robotics and automation, 3D vision, and manufacturing automation. Multiple positions are available but quota is competitive and limited. However, once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
+=======
+
 
 Research Highlights
 ======
