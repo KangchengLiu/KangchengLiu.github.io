@@ -135,6 +135,15 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Codes</a></span>
 
+
+**Kangcheng Liu**, [<font color='Navy'> A LiDAR-Inertial-Visual SLAM System with Loop Detection </font>](https://arxiv.org/abs/2301.05604). Robotics: Science and Systems (RSS), Workshops, 2021 <font color='Red'> (Oral) </font>. 
+
+**Kangcheng Liu**, [<font color='Navy'> Learning-Based Defect Recognitions for Autonomous UAV Inspections </font>](https://arxiv.org/abs/2302.06093). Robotics: Science and Systems (RSS), Workshops, 2020 <font color='Red'> (Oral) </font>. 
+
+**Kangcheng Liu**, [<font color='Navy'> An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping </font>](https://arxiv.org/abs/2212.14209). International Conference on Robotics and Automation (ICRA), Workshops, 2019 <font color='Red'> (Oral) </font>. 
+
+**Kangcheng Liu**, [<font color='Navy'> A Light-Weight LiDAR-Inertial SLAM System with Loop Closing </font>](https://arxiv.org/abs/2212.05743). International Conference on Robotics and Automation (ICRA), Workshops, 2020 <font color='Red'> (Oral) </font>. 
+
 **Kangcheng Liu**, Xiaodong Han, and Ben M. Chen. [<font color='Navy'> Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections. </font>](https://ieeexplore.ieee.org/document/8961534) [2019 IEEE International Conference on Robotics and Biomimetics (ROBIO),](https://ieeexplore.ieee.org/xpl/conhome/1000856/all-proceedings) <font color='Red'> (Oral) </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
@@ -176,14 +185,6 @@ Selected Representative Publications
         <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/deep-learning-localization-mapping">Codes of Compared Works.</a></span>
 
-
-**Kangcheng Liu**, [<font color='Navy'> A LiDAR-Inertial-Visual SLAM System with Loop Detection </font>](https://arxiv.org/abs/2301.05604). Robotics: Science and Systems (RSS), Workshops, 2021 <font color='Red'> (Oral) </font>. 
-
-**Kangcheng Liu**, [<font color='Navy'> Learning-Based Defect Recognitions for Autonomous UAV Inspections </font>](https://arxiv.org/abs/2302.06093). Robotics: Science and Systems (RSS), Workshops, 2020 <font color='Red'> (Oral) </font>. 
-
-**Kangcheng Liu**, [<font color='Navy'> An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping </font>](https://arxiv.org/abs/2212.14209). International Conference on Robotics and Automation (ICRA), Workshops, 2019 <font color='Red'> (Oral) </font>. 
-
-**Kangcheng Liu**, [<font color='Navy'> A Light-Weight LiDAR-Inertial SLAM System with Loop Closing </font>](https://arxiv.org/abs/2212.05743). International Conference on Robotics and Automation (ICRA), Workshops, 2020 <font color='Red'> (Oral) </font>. 
 
 
 **Recruitment**
