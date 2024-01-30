@@ -14,11 +14,11 @@ Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.ed
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor Associate Scientist, -->  
 
-<!-- The starting date can be spring 2024 or Fall 2024.  -->
+<!-- The starting date can be spring 2024 or Fall 2024. Dr. Liu's -->
 
 **Research Interests**
 =======
-Dr. Liu's research interests lie within the intersection of robotic systems and 3D vision. 
+Kangcheng Liu's research interests lie within the intersection of robotic systems and 3D vision. 
 
 He specialized in Robotics and Automation, Robotics Localization and Mapping, Vision/LiDAR-based Localization, Representation Learning, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, Multi-axis Robot 3D Printing, Robot Machining, and Onboard Robotics Scene Understanding. 
 

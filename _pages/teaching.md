@@ -26,15 +26,15 @@ VII. Probability and Statistics. <b> <br /> <br />
 
 VIII. Advanced Robotic Manufacturing. <b> <br /> <br />
 
-IX. Mechanical and Electronic Design.
+IX. Mechanical and Electronic Design. <b> <br /> <br />
 
-X. Robot Motion Planning and Control.
+X. Robot Motion Planning and Control. <b> <br /> <br />
 
-XI. Linear Algebra.
+XI. Linear Algebra. <b> <br /> <br />
 
-XII. Object-Oriented Programming (OOP).
+XII. Object-Oriented Programming (OOP). <b> <br /> <br />
 
-XIII. Java Programming.
+XIII. Java Programming. <b> <br /> <br />
 
 **2022-2023 Academic Year**: <br /> <br /> 
 
