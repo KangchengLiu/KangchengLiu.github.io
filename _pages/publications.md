@@ -38,7 +38,7 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
 
-**Kangcheng Liu**. [<font color='Navy'> Online Robot Navigation with Distilled Vision-Language Models.</font>], [IEEE International Conference on Robotics and Automation (ICRA), 2024](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings) 2024.
+**Kangcheng Liu**. <font color='Navy'> Online Robot Navigation with Distilled Vision-Language Models.</font> [IEEE International Conference on Robotics and Automation (ICRA), 2024](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings) 2024.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes</a></span>
     
