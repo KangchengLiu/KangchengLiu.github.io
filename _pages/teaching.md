@@ -10,18 +10,31 @@ author_profile: true
 
 **Courses**: <br /> <br />
 
-i. Advanced Robotics. <b> <br /> <br />
+I. Advanced Robotics. <b> <br /> <br />
 
-ii. Engineering Optimizations. <b> <br /> <br />
+II. Engineering Optimizations. <b> <br /> <br />
 
-iii. Modern Computer Graphics. <b> <br /> <br />
+III. Modern Computer Graphics. <b> <br /> <br />
 
-iv. Introduction to Reinforcement Learning.  <b> <br /> <br />
+IV. Introduction to Reinforcement Learning.  <b> <br /> <br />
 
-v. Methodology and Computation for Safe Autonomy.  <b> <br /> <br />
+V. Methodology and Computation for Safe Autonomy.  <b> <br /> <br />
 
-vi. 3D Vision and Robotics.   <b> <br /> <br />
+VI. 3D Vision and Robotics.   <b> <br /> <br />
 
+VII. Probability and Statistics. <b> <br /> <br />
+
+VIII. Advanced Robotic Manufacturing. <b> <br /> <br />
+
+IX. Mechanical and Electronic Design.
+
+X. Robot Motion Planning and Control.
+
+XI. Linear Algebra.
+
+XII. Object-Oriented Programming (OOP).
+
+XIII. Java Programming.
 
 **2022-2023 Academic Year**: <br /> <br /> 
 
