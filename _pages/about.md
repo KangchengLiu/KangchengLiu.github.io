@@ -9,7 +9,7 @@ redirect_from:
 ---
 Robotic systems and 3D Vision<br>
 Principal Investigator (PI), PhD Supervisor, Junior Professor, HKUST and HKUST (GZ) <br>
-Senior Researcher and Senior Engineer, [Nanyang Technological University.](https://www.ntu.edu.sg/), [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html), [Caltech](https://www.caltech.edu/)<br>
+Senior Researcher and Senior Engineer, [Caltech](https://www.caltech.edu/), [Nanyang Technological University.](https://www.ntu.edu.sg/), [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html)<br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor Associate Scientist, Senior Robotics Engineer Research Fellow Robotics -->  
