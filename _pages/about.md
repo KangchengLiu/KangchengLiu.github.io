@@ -9,12 +9,12 @@ redirect_from:
 ---
 Robotic systems and 3D Vision<br>
 Principal Investigator (PI), PhD Supervisor, Junior Professor, HKUST and HKUST (GZ) <br>
-Senior Robotics Engineer and Research Fellow, [Nanyang Technological University.](https://www.ntu.edu.sg/) <br>
+Senior Researcher and Senior Engineer, [Nanyang Technological University.](https://www.ntu.edu.sg/), [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html), [Caltech](https://www.caltech.edu/)<br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
 
-<!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor Associate Scientist, -->  
+<!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor Associate Scientist, Senior Robotics Engineer Research Fellow Robotics -->  
 
-<!-- The starting date can be spring 2024 or Fall 2024. Dr. Liu's -->
+<!-- The starting date can be spring 2024 or Fall 2024. Dr. Liu is a Senior Robotics Engineer and Research Fellow, -->
 
 **Research Interests**
 =======
