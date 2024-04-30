@@ -201,10 +201,10 @@ Selected Representative Publications
 
 
 
-**Recruitment**
+<!-- **Recruitment**
 =======
 <font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in robotics and automation, 3D vision, and manufacturing automation. Multiple positions are available but quota is competitive and limited. However, once offered, the salary will be highly competitive. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
-=======
+======= -->
 
 
 Research Highlights
