@@ -236,17 +236,17 @@ Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Di
 **AI Challenges and Competitions**
 ======
 
-Fully supervised 3D Semantic Segmentation on Paris-Lille-3D, <font color='Red'>3rd Place</font> (2020.05)  <br>
+[Fully supervised 3D Semantic Segmentation on Paris-Lille-3D](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>3rd Place</font> (2020.05)  <br>
 
-Fully supervised 3D Semantic Segmentation on Semantic3D, <font color='Red'>6th Place</font> (2020.08) (Reduced-8).   <br>
+[Fully supervised 3D Semantic Segmentation on Semantic3D](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>6th Place</font> (2020.08) (Reduced-8).   <br>
 
-Fully supervised 3D Semantic Segmentation on ScanNet, <font color='Red'>6th Place</font> (2020.09) <br>
+[Fully supervised 3D Semantic Segmentation on ScanNet](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>6th Place</font> (2020.09) <br>
 
-Fully supervised 3D Semantic Segmentation on S3DIS, <font color='Red'>2nd Place</font> (2020.09) <br>
+[Fully supervised 3D Semantic Segmentation on S3DIS](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>2nd Place</font> (2020.09) <br>
 
-Fully supervised 3D Semantic Segmentation on SensatUrban, <font color='Red'>5th Place</font> (2021.02) <br>
+[Fully supervised 3D Semantic Segmentation on SensatUrban](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>5th Place</font> (2021.02) <br>
 
-Weakly Supervised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place (2021.05)</font> <br>
+[Weakly Supervised 3D Semantic Segmentation on ScanNet for the Limited Annotation Case](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>1st Place (2021.05)</font> <br>
 
 <!-- Weakly Supervised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case,   <font color='Red'>1st Place</font> (2021.08) <br> -->
 
