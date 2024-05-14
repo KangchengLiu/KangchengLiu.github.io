@@ -250,11 +250,11 @@ Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Di
 
 <!-- Weakly Supervised 3D Semantic Segmentation on ScanNet for the Limited Reconstruction Case,   <font color='Red'>1st Place</font> (2021.08) <br> -->
 
-Weakly Supervised 3D Instance Segmentation on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place (2021.08)</font> <br>
+[Weakly Supervised 3D Instance Segmentation on ScanNet for the Limited Annotation Case](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>1st Place (2021.08)</font> <br>
 
 <!--  Weakly Supervised 3D Instance Segmentation on ScanNet for the Limited Reconstruction Case, <font color='Red'>1st Place (2021.08)</font> <br> -->
 
-Weakly Supervised 3D Object Detection on ScanNet for the Limited Annotation Case, <font color='Red'>1st Place (2021.11)</font>  <br>
+[Weakly Supervised 3D Object Detection on ScanNet for the Limited Annotation Case](https://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/), <font color='Red'>1st Place (2021.11)</font>  <br>
 
 <!-- Weakly Supervised 3D Object Detection on ScanNet Benchmark the Limited Reconstruction Case, <font color='Red'>1st Place (2021.11)</font>  <br> -->
 The Hong Kong Regional Biggest Innovation and Entrepreneurship Competitions 2021, <font color='Red'>3rd Prize</font> <br>
