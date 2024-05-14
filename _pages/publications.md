@@ -38,9 +38,9 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
 
-<!-- **Kangcheng Liu**. [<font color='Navy'> Online Robot Navigation and Manipulation with Distilled Vision-Language Models.</font>](https://arxiv.org/abs/2401.17083v1) [IEEE International Conference on Robotics and Automation (ICRA),](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings) 2024.
+**Kangcheng Liu**. [<font color='Navy'> Online Robot Navigation and Manipulation with Distilled Vision-Language Models.</font>](https://arxiv.org/abs/2401.17083v4) [IEEE International Conference on Robotics and Automation (ICRA),](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings).
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes</a></span> -->
+    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes</a></span>
     
 
 **Kangcheng Liu**, et al.  [<font color='Navy'> Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning. </font>](https://arxiv.org/abs/2312.00663) 
