@@ -273,6 +273,8 @@ Awards
 
 **Kangcheng Liu**,  CUHK Vice-Chancellor Scholarship 2018.
 
+**Kangcheng Liu**,  T-CYB Best Paper Finalist.
+
 **Kangcheng Liu**, Professor Charles K. Kao Student Creativity Merit Award 2021.
 
 **Kangcheng Liu**, Hong Kong Biggest Postgraduate Innovation and Entrepreneurship Competition 2021, Third Prize.
