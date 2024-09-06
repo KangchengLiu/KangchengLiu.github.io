@@ -27,7 +27,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Vi
 **Short Introduction**
 =======
 
-
+<!-- T-PAMI -->
 Prof. Kangcheng Liu's first-authored works in terms of 3D computer vision and robotics are widely published in international TOP flagship conferences and journals. His first-authored works has won many best paper awards in TOP venues encompassing some international conferences and journals, and was published and recognized as best paper candidates widely among journals such as IJCV and ACM TOG. <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
  <!-- He serves as the associate editor of selected [IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). July in 2022 Kangcheng Liu  -->  
 
