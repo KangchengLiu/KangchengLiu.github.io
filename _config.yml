@@ -5,10 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Homepage of Prof. Kangcheng Liu (刘康丞)
+# Homepage of Prof. Kangcheng Liu (刘康丞) (刘康丞)
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Kangcheng Liu (刘康丞)"
+title                    : "Prof. Kangcheng Liu"
 title_separator          : "-"
 name                     : &name "Kangcheng Liu"
 description              : &description "personal description"
