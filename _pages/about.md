@@ -28,8 +28,6 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Vi
 <font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in robotics and automation, 3D vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me at kcliu@mae.cuhk.edu.hk if you are interested. Pls attach your CV and transcript in your application email.  </font>
 
 
-
-
 **Short Introduction**
 =======
 
