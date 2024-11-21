@@ -23,6 +23,12 @@ Kangcheng Liu's research interests lie within the intersection of robotic system
 He specialized in Robotics and Automation, Robotics Localization and Mapping, Vision/LiDAR-based Localization, Representation Learning, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, Multi-axis Robot 3D Printing, Robot Machining, and Onboard Robotics Scene Understanding. 
 
 
+**Recruitment**
+=======
+<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in robotics and automation, 3D vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me at kcliu@mae.cuhk.edu.hk if you are interested. Pls attach your CV and transcript in your application email.  </font>
+=======
+
+
 
 **Short Introduction**
 =======
