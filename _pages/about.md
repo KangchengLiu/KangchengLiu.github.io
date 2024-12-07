@@ -25,7 +25,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Vi
 
 **Recruitment**
 =======
-<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in artificial intelligence, computer graphics, robotics and automation, 3D computer vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
+<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in artificial intelligence, computer graphics, robotics and automation, 3D computer vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me if you are interested. Please attach your CV and transcript in your application email.  </font>
 <br>
 
 
