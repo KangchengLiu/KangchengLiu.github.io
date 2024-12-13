@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can find his full publication list on his [Google Scholar Profile](https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en).
+<!-- You can find his full publication list on his [Google Scholar Profile](https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en). -->
 {% if author.googlescholar %}
   You can find my full publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -196,6 +196,10 @@ Muqing Cao, Kun Cao, Shenghai Yuan, **Kangcheng Liu**, et al. [<font color='Navy
 **Kangcheng Liu**, [<font color='Navy'> An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping </font>](https://arxiv.org/abs/2212.14209). International Conference on Robotics and Automation (ICRA), Workshops, 2019 <font color='Red'> (Oral) </font>. 
 
 **Kangcheng Liu**, [<font color='Navy'> A Light-Weight LiDAR-Inertial SLAM System with Loop Closing </font>](https://arxiv.org/abs/2212.05743). International Conference on Robotics and Automation (ICRA), Workshops, 2020 <font color='Red'> (Oral) </font>. 
+
+---
+
+You can find his full publication list on his Google Scholar Profile.
 
 <!-- Kun Cao Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. --> 
 
