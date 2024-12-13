@@ -199,7 +199,7 @@ Muqing Cao, Kun Cao, Shenghai Yuan, **Kangcheng Liu**, et al. [<font color='Navy
 
 ---
 
-You can find his full publication list on his Google Scholar Profile.
+<!-- You can find his full publication list on his Google Scholar Profile. -->
 
 <!-- Kun Cao Jihan Zhang, Ruoyu Wang, Guidong Yang, **Kangcheng Liu**, et al. Sim-in-Real: Digital Twin Based UAV Inspection Process. 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022. --> 
 
