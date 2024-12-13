@@ -83,17 +83,17 @@ analytics:
 author: 
   name             : "Prof. Kangcheng Liu"
   avatar           : "kcliu.jpg"
-  bio              : "Robotic systems and 3D Vision. Caltech, ETH Zurich, Nanyang Technological University. The Chinese University of Hong Kong. Harbin Institute of Technology."
+  bio              : "Robotic systems and 3D Vision. California Institute of Technology (Caltech), ETH Zurich, Nanyang Technological University. The Chinese University of Hong Kong. Harbin Institute of Technology."
   location         : "Singapore, Hong Kong SAR"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en"
   # googlescholar    : "https://scholar.google.com/citations?user=qq2aoesAAAAJ&hl=en"
   email            :  kcliucuhk@gmail.com
   email            :  kcliu@link.cuhk.edu.hk
   email            :  kcliu@mae.cuhk.edu.hk
   # researchgate     :  "https://www.researchgate.net/profile/Kangcheng-Liu-2"
-  researchgate     :  "https://www.researchgate.net/profile/Kangcheng-Liu-2"
+  # researchgate     :  "https://www.researchgate.net/profile/Kangcheng-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
