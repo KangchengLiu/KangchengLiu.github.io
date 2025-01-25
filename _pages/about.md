@@ -9,7 +9,7 @@ redirect_from:
 ---
 Embodied AI, Robotic Systems and Computational Optics<br>
 Principal Investigator (PI), PhD Supervisor, Professor <br>
-Senior Project Scientist and Senior Engineer, [The California Institute of Technology (Caltech)](https://www.caltech.edu/), [Nanyang Technological University](https://www.ntu.edu.sg/), [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html)<br>
+Senior Scientist, [The California Institute of Technology (Caltech)](https://www.caltech.edu/), [ETH Zurich](https://ethz.ch/en.html)<br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
 
 <!-- The Chinese University of Hong Kong, Hong Kong SAR, China HKUST and Assistant Professor Associate Scientist, Senior Robotics Engineer Research Fellow Robotics -->  
@@ -25,7 +25,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Vi
 
 **Recruitment**
 =======
-<font color='Navy'> Prof. Liu is recruiting and supervising Postdocs, PhD students, masters, and RAs with core research areas in embodied artificial intelligence, robotics and automation, computational optics, computer graphics, 3D computer vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
+<font color='Navy'> Prof. Liu is recruiting and supervising j Postdocs, PhD students, masters, and RAs with core research areas in embodied artificial intelligence, robotics and automation, computational optics, computer graphics, 3D computer vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
 <br>
 
 
