@@ -21,11 +21,10 @@ author_profile: true
 Selected Publications
 ======
 
-**Kangcheng Liu**, Cao Muqing.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/document/10092189)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516), March 2023. 
+**Kangcheng Liu**. [<font color='Navy'> Generalized Robotic Vision-Language Learning Model via Linguistic Foreground-Aware Contrast.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2025, IF in 2022: 19.5, Pages 1-38.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
-    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+    <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast">Codes</a></span>
+
 
 
 **Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263) 2022, IF in 2021: 13.369, Pages 1-30.
@@ -34,27 +33,27 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
+**Kangcheng Liu**.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/document/10092189)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516), March 2023. 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+
+
+
 **Kangcheng Liu**, Shao Ling.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388)  [CVPR 2023](https://cvpr2023.thecvf.com/). <br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
-
-**Kangcheng Liu**. [<font color='Navy'> Online Robot Navigation and Manipulation with Distilled Vision-Language Models.</font>](https://arxiv.org/abs/2401.17083v4) [IEEE International Conference on Robotics and Automation (ICRA),](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings).
-    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes</a></span>
     
 
-**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning. </font>](https://arxiv.org/abs/2312.00663) 
-    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://drive.google.com/drive/folders/1M58V-PtR8DBEwD296zJkNg_m2qq-MTAP"> Codes</a></span>    
 
-
-**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding.</font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
+**Kangcheng Liu**, and Ben M. Chen.  [<font color='Navy'>FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding.</font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font>](https://ieeexplore.ieee.org/abstract/document/9561496) [2021 38th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
+**Kangcheng Liu**, and Ben M. Chen.  [<font color='Navy'>FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling. </font>](https://ieeexplore.ieee.org/abstract/document/9561496) [2021 38th IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). <font color='Red'> (Oral) </font>.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9561496">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -66,6 +65,8 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
+
+
 **Kangcheng Liu**, Yuzhi Zhao, Qiang Nie, and Ben M. Chen. [<font color='Navy'> Weakly Supervised 3D Scene Parsing with Region-Level Boundary Awareness and Instance Discrimination.</font>](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_3) [European Conference on Computer Vision (ECCV) 2022.](https://link.springer.com/conference/eccv) <font color='Red'> </font> 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19815-1_3"> ECCV Springer Book </a></span><br>
@@ -73,6 +74,8 @@ Selected Publications
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880036.pdf"> PDF </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Weakly-Supervised-3D">Codes</a></span>
+
+
 
 **Kangcheng Liu**. [<font color='Navy'> Robust Industrial UAV/UGV-Based Unsupervised Domain Adaptive Crack Recognitions with Depth and Edge Awareness: From System and Database Constructions to Real-Site Inspections. </font>](https://dl.acm.org/doi/abs/10.1145/3503161.3548304) [ACM International Conference on Multimedia (ACM MM) 2022.](https://dl.acm.org/conference/mm) <font color='Red'> (Oral). </font>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -87,6 +90,8 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
+
+
 **Kangcheng Liu**, et al.  [<font color='Navy'> Generalized 3D Self-supervised Learning Framework via Prompted Foreground-Aware Feature Contrast. </font>](https://arxiv.org/abs/2303.06388)
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes</a></span>   
@@ -98,12 +103,17 @@ Selected Publications
     <span><a href="https://github.com/KangchengLiu/Wind_Turbine_Control_Code">Codes</a></span>
 
 
-**Kangcheng Liu**, Aoran Xiao, and Shijian Lu. [<font color='Navy'>  D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>](https://ieeexplore.ieee.org/document/9981388) [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+
+**Kangcheng Liu**, and Shijian Lu. [<font color='Navy'>  D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR-SLAM in Complicated Circumstances with Noisy Point Clouds. </font>](https://ieeexplore.ieee.org/document/9981388) [2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) <font color='Red'> (Oral) </font>      <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9900135"> IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/slam_resources">Preliminary Codebase of LiDAR-SLAM_v1.2.</a></span>
+
+Siyu Chen, Kangcheng Liu, et al. [<font color='Navy'> Salient Sparse Visual Odometry With Pose-Only Supervision. </font>](https://ieeexplore.ieee.org/abstract/document/10490100). IEEE Robotics and Automation Letters, 2024.
+
+Xu Zheng, Kangcheng Liu, et al. [<font color='Navy'> Transformer-cnn cohort: Semi-supervised semantic segmentation by the best of both students. </font>](https://ieeexplore.ieee.org/abstract/document/10611036). IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
 **Kangcheng Liu**, [<font color='Navy'> A LiDAR-Inertial-Visual SLAM System with Loop Detection </font>](https://arxiv.org/abs/2301.05604). Robotics: Science and Systems (RSS), Workshops, 2021 <font color='Red'> (Oral) </font>. 
 
@@ -120,12 +130,11 @@ Selected Publications
     <span><a href="https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection">Codes and Datasets.</a></span>
 
 
-**Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'> Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling. </font>](https://arxiv.org/abs/2012.09439)  [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), December 2020, IF in 2021: 19.118. 
+**Kangcheng Liu**, and Ben M. Chen.  [<font color='Navy'> Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling. </font>](https://arxiv.org/abs/2012.09439)  [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), December 2020, IF in 2021: 19.118. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
-
 
 
 **Kangcheng Liu**, and Ben M. Chen.  [<font color='Navy'> An Integrated Visual System for Unmanned Aerial Vehicles Following Ground Vehicles: Simulations and Experiments. </font>](https://ieeexplore.ieee.org/document/9831831) 2022 International Conference on Control and Automation (ICCA), 2022 <font color='Red'> (Oral) </font>. 
@@ -182,12 +191,27 @@ Selected Publications
 
 Yuzhi Zhao, Lai-Man Po, **Kangcheng Liu**, Xuehui Wang, Win-Yin Yu. [<font color='Navy'> SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks. </font>](https://ieeexplore.ieee.org/document/10198230) IEEE Transactions on Image Processing, 2023.
 
+
+Pengyu Yin, **Kangcheng Liu**, et al.  [<font color='Navy'> Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning. </font>](https://ieeexplore.ieee.org/document/10198230) IEEE International Conference on Robotics and Automation, 2024.
+
 Yuzhi Zhao, Lai-Man Po, Tingyu Lin, Xuehui Wang, **Kangcheng Liu**, et al. [<font color='Navy'> Legacy Photo Editing with Learned Noise Prior.  </font>](https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.pdf) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Oral, 2021. <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://openaccess.thecvf.com/content/WACV2021/html/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.html"> CVF Open Access </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior">Codes and Datasets.</a></span>
   
 Muqing Cao, Kun Cao, Shenghai Yuan, **Kangcheng Liu**, et al. [<font color='Navy'> Path Planning for Multiple Tethered Robots Using Topological Braids. </font>](https://arxiv.org/abs/2305.00271). Proceedings of Robotics: Science and Systems (RSS), 2023.
+
+
+
+**Kangcheng Liu**, et al.  [<font color='Navy'> Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning. </font>](https://arxiv.org/abs/2312.00663) 
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/drive/folders/1M58V-PtR8DBEwD296zJkNg_m2qq-MTAP"> Codes</a></span>    
+
+
+**Kangcheng Liu**. [<font color='Navy'> Online Robot Navigation and Manipulation with Distilled Vision-Language Models.</font>](https://arxiv.org/abs/2401.17083v4) [IEEE International Conference on Robotics and Automation (ICRA),](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings).
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Codes</a></span>
+  
 
 **Kangcheng Liu**, [<font color='Navy'> A LiDAR-Inertial-Visual SLAM System with Loop Detection </font>](https://arxiv.org/abs/2301.05604). Robotics: Science and Systems (RSS), Workshops, 2021 <font color='Red'> (Oral) </font>. 
 
