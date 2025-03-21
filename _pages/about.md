@@ -62,7 +62,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
-**Kangcheng Liu**. [<font color='Navy'> Generalized Robotic Vision-Language Learning Model via Linguistic Foreground-Aware Contrast.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2025, IF in 2022: 19.5, Pages 1-38.
+**Kangcheng Liu**. [<font color='Navy'> Generalized Robotic Vision-Language Learning Model via Linguistic Foreground-Aware Contrast.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2024, IF in 2022: 19.5, Pages 1-38.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast">Codes</a></span>
 
