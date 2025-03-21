@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Embodied AI, Robotic Systems and Computational Optics<br>
+Embodied AI, Robotic Systems, and Computational Optics<br>
 Principal Investigator (PI), PhD Supervisor, Professor <br>
 Senior Scientist, with [The California Institute of Technology (Caltech)](https://www.caltech.edu/), and [ETH Zurich](https://ethz.ch/en.html)<br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
