@@ -35,7 +35,7 @@ He specialized in Robotics and Automation, Robotics Localization and Mapping, Vi
 
 <!-- T-PAMI --> 
 Prof. Kangcheng Liu's first-authored works in terms of 3D computer vision and robotics are widely published in international TOP flagship conferences and journals. His first-authored works has won many best paper awards in TOP venues encompassing some international conferences and journals, and was published and recognized as special issue best paper candidates widely among journals such as IJCV, and ACM TOG. <!-- He has ten first-author publications in TOP-tier Computer Vision and Robotics Journals and Conferences, and has 20+ publications in core international journals and conferences indexed by SCI/EI. -->
- <!-- He serves as the associate editor of selected [IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). July in 2022 Kangcheng Liu  -->  
+ <!-- He serves as the associate editor of selected [IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings). July in 2022 Kangcheng Liu IEEE Transactions on Pattern Analysis and Machine Intelligence -->  
 
 In terms of his service, he has been nominated to be the program commitee member of the international flagship conferences: [IEEE International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings), [IEEE International Conference on Pattern Recognition (ICPR)](https://ieeexplore.ieee.org/xpl/conhome/1000545/all-proceedings), [IEEE International Conference on Automation Science and Engineering (CASE)](https://ieeexplore.ieee.org/xpl/conhome/1001095/all-proceedings), [IEEE International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings), [ICARM](https://ieeexplore.ieee.org/xpl/conhome/1815004/all-proceedings) and [IROS](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings). He has also been nominated to be the program session chair of international flagship conferences such as [ICRA](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings), [IROS](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings), [IEEE-SMC](https://ieeexplore.ieee.org/xpl/conhome/1000738/all-proceedings), [ICIP](https://2023.ieeeicip.org/), [ICARM](https://ieeexplore.ieee.org/xpl/conhome/1815004/all-proceedings), [CYBER](https://ieeexplore.ieee.org/xpl/conhome/1800486/all-proceedings), and [ICCA](https://ieeexplore.ieee.org/xpl/conhome/1000167/all-proceedings). He also serves as the program commitee member or the reviewers of more than 70 kinds of international conferences such as [CVPR](https://cvpr2023.thecvf.com/), [ICCV](https://openaccess.thecvf.com/ICCV2021), [ECCV](https://link.springer.com/conference/eccv), [ACM SIGGRAPH](https://s2023.siggraph.org/), [CoRL](https://www.corl2023.org/), and more than 60 kinds of international TOP journals such as [IJCV](https://www.springer.com/journal/11263), [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IJRR](https://journals.sagepub.com/home/ijr), [T-RO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860), [JFR](https://onlinelibrary.wiley.com/journal/15564967), [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), and [T-CYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036).
 
@@ -58,13 +58,17 @@ You can find his developed open-sourced project on his [Github Project Page](htt
 Selected Representative Publications
 ======
 
-**Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2022, IF in 2022: 19.5, Pages 1-30.
+**Kangcheng Liu**. [<font color='Navy'> RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-based Semantic Region Merging.</font>](https://link.springer.com/article/10.1007/s11263-022-01740-3) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2022, IF in 2022: 19.5, Pages 1-30. (Long Paper)
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
-**Kangcheng Liu**. [<font color='Navy'> Generalized Robotic Vision-Language Learning Model via Linguistic Foreground-Aware Contrast.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2024, IF in 2022: 19.5, Pages 1-38.
+**Kangcheng Liu**. [<font color='Navy'> Generalized Robotic Vision-Language Learning Model via Linguistic Foreground-Aware Contrast.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263), 2024, IF in 2022: 19.5, Pages 1-38. (Long Paper)
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast">Codes</a></span>
+
+**Kangcheng Liu**. [<font color='Navy'> Generalized Robot 3D Vision-Language Model with Fast Rendering and Pre-Training Vision-Language Alignment.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://www.springer.com/journal/11263), 2024, IF in 2024: 23.9, Pages 1-20.
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/drive/folders/1M58V-PtR8DBEwD296zJkNg_m2qq-MTA">Codes</a></span>
 
 **Kangcheng Liu**, et al.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/document/10092189)  [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/document/10092189), March 2023. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
@@ -75,7 +79,9 @@ Selected Representative Publications
 
 **Kangcheng Liu**, Shao Ling.  [<font color='Navy'> FAC: 3D Representation Learning via Foreground Aware Feature Contrast. </font>](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_FAC_3D_Representation_Learning_via_Foreground_Aware_Feature_Contrast_CVPR_2023_paper.pdf)  [CVPR 2023](https://cvpr2023.thecvf.com/). <br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span>    
+    <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast"> Codes of this work and the compared works.</a></span> 
+
+ 
 
 
 **Kangcheng Liu**, Zhi Gao, Feng Lin, and Ben M. Chen.  [<font color='Navy'>FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Clouds Understanding. </font>](https://ieeexplore.ieee.org/abstract/document/9756643/)   [IEEE Transactions on Cybernetics (T-CYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), March 2022, IF in 2021: 19.118. 
@@ -83,6 +89,8 @@ Selected Representative Publications
     <span><a href="https://ieeexplore.ieee.org/abstract/document/9756643">IEEE Xplore </a></span><br>
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/Feature-Geometric-Net-FG-Net">Codes</a></span>
+
+
 
 
 **Kangcheng Liu** and Ben M. Chen. [<font color='Navy'> Industrial UAV-based Unsupervised Domain Adaptive Crack Recognitions: From System Setups to Real-Site Infrastructural Inspections. </font>](https://ieeexplore.ieee.org/abstract/document/9900135) [IEEE Transactions on Industrial Electronics (TIE),](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41) 2022, , IF in 2021: 8.162. <font color='Red'> </font> 
