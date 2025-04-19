@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Embodied AI, Robotic Systems, and Computational Optics<br>
+Embodied AI, Robotic Systems, and Integrated Computational Optics<br>
 Principal Investigator (PI), PhD Supervisor, Professor <br>
 Senior Scientist, with [The California Institute of Technology (Caltech)](https://www.caltech.edu/), and [ETH Zurich](https://ethz.ch/en.html)<br>
 Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.edu.hk/english/index.html) <br>
@@ -18,14 +18,14 @@ Doctor of Philosophy, [The Chinese University of Hong Kong.](https://www.cuhk.ed
 
 **Research Interests**
 =======
-Kangcheng Liu's research interests lie within the intersection of embodied artificial intelligence, robotic systems and computational optics. 
+Kangcheng Liu's research interests lie within the intersection of embodied artificial intelligence, robotic systems and integrated computational optics. 
 
 He specialized in Robotics and Automation, Robotics Localization and Mapping, Vision/LiDAR-based Localization, Representation Learning, Computer Graphics, Data-efficient Learning, 3D Deep Learning, UAV/UGV Navigation, Medical Imaging, Multi-axis Robot 3D Printing, Robot Machining, and Onboard Robotics Scene Understanding. 
 
 
 **Recruitment**
 =======
-<font color='Navy'> Prof. Liu is recruiting and supervising Junior Faculty Members, Postdocs, PhD students, masters, and RAs with core research areas in embodied artificial intelligence, robotics and automation, computational optics, computer graphics, 3D computer vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
+<font color='Navy'> Prof. Liu is currently recruiting and supervising Junior Faculty Members, Postdocs, PhD students, masters, and RAs with core research areas in embodied artificial intelligence, robotics and automation, computational optics, computer graphics, 3D computer vision, and robot control. Multiple positions are available but quota is competitive and limited. Contact me if you are interested. Pls attach your CV and transcript in your application email.  </font>
 <br>
 
 

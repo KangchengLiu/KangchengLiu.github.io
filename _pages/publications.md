@@ -33,6 +33,12 @@ Selected Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/RM3D">Codes</a></span>
 
+
+**Kangcheng Liu**. [<font color='Navy'> Generalized Robot 3D Vision-Language Model with Fast Rendering and Pre-Training Vision-Language Alignment.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://www.springer.com/journal/11263), 2024, IF in 2024: 23.9, Pages 1-20.
+    <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/drive/folders/1M58V-PtR8DBEwD296zJkNg_m2qq-MTA">Codes</a></span>
+
+
 **Kangcheng Liu**.  [<font color='Navy'> DLC-SLAM: A Robust LiDAR-SLAM System with Learning-based Denoising and Loop Closure. </font>](https://ieeexplore.ieee.org/document/10092189)   [IEEE Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516), March 2023. 
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/DLC_LiDAR_SLAM">Systematic Codebase of DLC-LiDAR-SLAM_v1.6.</a></span>    
