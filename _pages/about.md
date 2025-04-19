@@ -66,7 +66,7 @@ Selected Representative Publications
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast">Codes</a></span>
 
-**Kangcheng Liu**. [<font color='Navy'> Generalized Robot 3D Vision-Language Model with Fast Rendering and Pre-Training Vision-Language Alignment.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://www.springer.com/journal/11263), 2024, IF in 2024: 23.9, Pages 1-20.
+**Kangcheng Liu**. [<font color='Navy'> General Robot 3D Vision-Language Model with Fast Rendering and Pre-Training Vision-Language Alignment.</font>](https://link.springer.com/article/10.1007/s11263-024-02340-z) [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://www.springer.com/journal/11263), 2024, IF in 2024: 23.9, Pages 1-20.
     <img src="https://raw.githubusercontent.com/KangchengLiu/kangchengliu.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://drive.google.com/drive/folders/1M58V-PtR8DBEwD296zJkNg_m2qq-MTA">Codes</a></span>
 
